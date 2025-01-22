@@ -17,10 +17,9 @@ Luminatura est une installation immersive alliant art et technologie, où des la
 
 ## Gallerie photo
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
+* <img src="assets/images/audrey.jpg" width="400" height="400">
+* <img src="assets/images/ihab.jpg" width="400" height="400">
+* <img src="assets/images/justine.jpg" width="400" height="400">
+* <img src="assets/images/prethiah.jpeg" width="400" height="400">
 * ![Image 5](https://placehold.co/400x400?text=5+image)
-* ![Image 6](https://placehold.co/400x400?text=6+image)
 
