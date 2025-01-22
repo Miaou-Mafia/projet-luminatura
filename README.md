@@ -1,6 +1,11 @@
 # Luminatura
 Luminatura est une installation immersive alliant art et technologie, où des lanternes et les lotus lumineux illuminent votre parcours et des vignes décorent l'espace. Cela crée ainsi une atmosphère accueillante. En touchant une plaque métallique, le capteur capacitif détecte la conductivité des mains de l'utilisateur et déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Le potentiel de transformation que chacun peut exercer sur son environnement est illustré par cette interraction.
 
+## Bande-annonce
+
+## Documentation vidéo
+
+<!---   
 ## Devrait être présent sur cette page:
 
 * Titre
@@ -8,8 +13,9 @@ Luminatura est une installation immersive alliant art et technologie, où des la
 * Résumé du projet (~ 100 mots)
 * Documentation vidéo de l'installation en action
 * Gallerie photo du projet réalisé
+--->
 
-## Gallerie image exemple
+## Gallerie photo
 
 * ![Image 1](https://placehold.co/400x400?text=1+image)
 * ![Image 2](https://placehold.co/400x400?text=2+image)
