@@ -1,6 +1,6 @@
-# Membre v
+# Audrey Dandurand
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=v)
+ ![Audrey Dandurand](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/audrey.jpg)
 
  ## Réalisations
 
