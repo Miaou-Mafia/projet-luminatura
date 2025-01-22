@@ -1,6 +1,6 @@
-# Membre z
+# Ihab Mouhajer
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=z)
+ ![Ihab Mouhajer](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/ihab.jpg)
 
  ## Réalisations
 
