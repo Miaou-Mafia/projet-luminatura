@@ -1,6 +1,6 @@
-# Membre x
+# Justine Rousseau
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=x)
+ ![Justine Rousseau](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/justine.jpg)
 
  ## Réalisations
 
