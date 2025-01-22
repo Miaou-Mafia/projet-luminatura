@@ -1,6 +1,6 @@
-# Membre y
+# Prethiah Rajaratnam
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=y)
+ ![Prethiah Rajaratnam](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/prethiah.jpeg)
 
  ## Réalisations
 
