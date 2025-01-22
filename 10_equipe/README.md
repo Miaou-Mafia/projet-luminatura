@@ -1,13 +1,9 @@
 # Équipe
 
 <!-- Présentation des rôles et responsabilités de chacun des membres de l'équipe -->
-
-* [![audrey](https://github.com/user-attachments/assets/a711965e-b210-4aad-8adc-25956b850225)](membre_w/)
-  
-  Audrey Dandurand
-* [<img src="../assets/images/audrey.jpg" width="400" height="400">](membre_w/)
-* [<img src="../assets/images/audrey.jpg" width="400" height="400">](membre_w/)
-* [<img src="../assets/images/audrey.jpg" width="400" height="400">](membre_w/)
-* [<img src="../assets/images/audrey.jpg" width="400" height="400">](membre_w/)
-* [<img src="../assets/images/audrey.jpg" width="400" height="400">](membre_w/)
+* [<img src="../assets/images/audrey.jpg" width="400" height="400">](audrey/)
+* [<img src="../assets/images/justine.jpg" width="400" height="400">](justine/)
+* [<img src="../assets/images/camilia.jpg" width="400" height="400">](camilia/)
+* [<img src="../assets/images/prethiah.jpg" width="400" height="400">](prethiah/)
+* [<img src="../assets/images/ihab.jpg" width="400" height="400">](ihab/)
 
