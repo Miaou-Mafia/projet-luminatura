@@ -15,8 +15,8 @@ graph TD;
     Lumière1 --> Reste1[Utilisateur reste ?];
     Audio1 --> Reste1;
     
-    Reste1 -- Oui --> PlusEffetsLumière1[Effets lumières augmentés];
-    Reste1 -- Oui --> PlusEffetsAudio1[Effets audio augmentés];
+    Reste1 -- Oui --> PlusEffetsLumière1[Effets lumières constant];
+    Reste1 -- Oui --> PlusEffetsAudio1[Effets audio constant];
     Reste1 -- Non --> RetourVeille[Retour au mode veille];
     
     Interaction -- Non --> AmbianceBase;
