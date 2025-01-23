@@ -23,6 +23,8 @@ graph TD;
 
 ```
 
+![interactions](https://github.com/user-attachments/assets/d40775ee-7d48-4004-ac14-93e8e4af9fce)
+
 ## Expérience usager UX
 ...
 
