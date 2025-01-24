@@ -1,19 +1,13 @@
 # Synopsis
 
 ## Concept
-Luminatura est une installation immersive alliant art et technologie, où des fleurs lumineuses illuminent votre parcours et des vignes et des lanternes décorent l'espace, créant ainsi une atmosphère accueillante. En touchant une plaque métallique, le capteur capacitif détecte la conductivité des mains de l'utilisateur et déclenche une réponse lumineuse et sonore, illustrant le potentiel de transformation que chacun peut exercer sur la nature.
+Luminatura est une installation interactive alliant nature et technologie, où des fleurs lumineuses illuminent votre parcours, ainsi que des vignes, et des lanternes décorent l'espace, créant ainsi une atmosphère accueillante. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains des utilisateurs et déclenche une réponse lumineuse et sonore, mettant en avant notre pouvoir d’embellir et d’illuminer notre environnement grâce à la capacitance de notre corps.
 
 ## Intention de départ
-L'œuvre vise à provoquer une expérience immersive où l'interaction avec des fleurs déclenche une transformation lumineuse et sonore, nous invitant à réfléchir sur notre pouvoir d'embellir et d'illuminer la nature.
+L'œuvre vise à provoquer une expérience immersive où l'interaction avec des fleurs déclenche une transformation lumineuse et sonore, nous invitant à réfléchir sur notre pouvoir d'embellir et d'illuminer la nature. Elle illustre l'harmonie entre la nature et la technologie,
 
 ## Description
-À l'entrée de l'installation, le visiteur est accueilli par la douce lumière des fleurs suspendues, ainsi que par les vignes décoratives et les lanternes qui créent une ambiance de tranquillité.
+À l'entrée de l'installation, le visiteur est accueilli par la douce lumière des fleurs suspendues, ainsi que par les vignes décoratives et les lanternes qui créent une ambiance de sérénité.
 
-En touchant la plaque, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Ce moment intime lui permet de réfléchir à ses propres expériences de transformation.
+En touchant la plaque, le visiteur déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Luminatura offre ainsi une expérience sensorielle unique, où la fusion entre nature et technologie révèle notre capacité à interagir et à sublimer notre environnement. C’est une expérience immersive qui réinvente notre perception de la nature à travers l’innovation.
 
-<!---  ## Références
-
-* [Concept](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/10_concept/)
-* [Motivation](https://tim-montmorency.com/582523-gestion/#/contenus/2_scenarisation/10_idee/30_motivations/)
-* [Pitch](https://tim-montmorency.com/582523-gestion/#/contenus/4_faisabilite/20_pitch/)
---->
