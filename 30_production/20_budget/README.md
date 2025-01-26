@@ -6,9 +6,7 @@
 
 | Description                          | Quantité | Prix unitaire | Coût total | Lien d'achat |
 |--------------------------------------|----------|--------------|------------|--------------|
-| Arduino Uno                          | 1        | ?            | ?          | [Digikey](https://www.digikey.ca/en/products/detail/arduino/A000066/2784006)    |
 | YAGEO CFR-25JB-52-3M6                | 2        | ?            | ?          | [Digikey](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)    |
-| Adafruit Industries LLC 1374         | 2        | ?            | ?          | [Digikey](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467)    |
 | Ampoule LED DMX512                   | 6        | 24.18$       | 145.08$    | [Aliexpress](https://www.aliexpress.com/item/32626019053.html)    |
 | Transmitter                          | 1        | 19.38$       | 19.38$     | [Aliexpress](https://www.aliexpress.com/item/32626019053.html)    |
 | Suspension lumineuse avec rallonge           | 6        | 15.99$       | 95.94$     | [Aliexpress](https://www.aliexpress.com/item/32626019053.html)    |

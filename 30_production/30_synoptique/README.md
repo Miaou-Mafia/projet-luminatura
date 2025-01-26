@@ -11,8 +11,8 @@ graph TD;
     HautParleur[Haut-parleurs]
     SortieAudio[Sortie audio]
 
-    PlaqueMetalique[Plaque métallique]
-    ArduinoA000066[Arduino A000066]
+    PlaqueMetalique[Plaques métalliques]
+    Arduino[Arduino M5 Stack]
 
     %% Emplacements
     subgraph Caché des utilisateurs
@@ -30,25 +30,19 @@ graph TD;
 
     subgraph Grand Studio
         PlaqueMetalique
-        ArduinoA000066
+        Arduino
     end
 
     %% Connexions
     Ordinateur -->|USB| DMX
     Ordinateur --> CarteSon
     Ordinateur -.-> PlaqueMetalique
-    PlaqueMetalique -->|Capteur de capacitance Adafruit Industries LLC 1374| ArduinoA000066
-    ArduinoA000066 -->|Contrôle Lumière| Lumieres
-    ArduinoA000066 -->|Contrôle Son| CarteSon
+    PlaqueMetalique --> Arduino
+    Arduino -->|Contrôle Lumière| Lumieres
+    Arduino -->|Contrôle Son| CarteSon
     DMX -->|Câble DMX| Lumieres
     Lumieres -->|Câble électrique| Ampoule
     CarteSon -->|Câble audio| HautParleur
     HautParleur -->|Câble audio| SortieAudio
 
 ```
-<!--- 
-## Références
-
-* [Synoptique](https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/10_synoptique/)
---->
-

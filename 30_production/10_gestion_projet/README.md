@@ -1,13 +1,5 @@
 # Gestion de projet
 
-* Utilisez les fonctions de suivi de Projet dans github
-
-* Plus précisément, le modèle "Product Launch" (Lancement de produit) 
-
-* Mettre des liens vers votre outil de gestion de projets ici  
-
-
-
 ## Tableau par semaine
 
 | Semaine | Dates          | À préparer durant la semaine                           | Savoirs essentiels / Activités en classe |
