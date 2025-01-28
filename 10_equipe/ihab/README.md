@@ -5,5 +5,8 @@
  ## Réalisations
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
+#### Semaine 1
+Création de la section asset dans github.
 
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+* ![Asset](https://github.com/user-attachments/assets/864cf537-79d0-4e54-a1cf-b92431ee3b47)
+
