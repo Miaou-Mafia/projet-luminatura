@@ -20,6 +20,11 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wxflcCxqebU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Planches d'ambiances pour les projections
+**Projection sur les murs**
+
+**Projection sur le sol**
+
 ### L'esthétique et le design
 
 Le design intègre également des éléments contemporains, tels que des structures métalliques et des dispositifs technologiques, pour offrir une expérience immersive qui invite les spectateurs à interagir avec leur environnement lumineux et sonore.
