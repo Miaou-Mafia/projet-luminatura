@@ -1,6 +1,6 @@
 # Prethiah Rajaratnam
 
-![prethiah](https://github.com/user-attachments/assets/4ee9a2ab-1672-4b7a-8025-00438caa3ce7)
+![prethiah](https://github.com/user-attachments/assets/fc58409a-e799-4168-b50f-32023648f2f1)
 
  ## Réalisations
 
