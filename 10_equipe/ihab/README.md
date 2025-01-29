@@ -1,6 +1,6 @@
 # Ihab Mouhajer
 
- ![Ihab Mouhajer](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/ihab.jpg)
+![ihab](https://github.com/user-attachments/assets/b18e5dcf-7233-4461-be02-8a9fb8cec93f)
 
  ## Réalisations
 

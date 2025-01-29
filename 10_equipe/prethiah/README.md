@@ -1,6 +1,6 @@
 # Prethiah Rajaratnam
 
- ![Prethiah Rajaratnam](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/prethiah.jpeg)
+![prethiah](https://github.com/user-attachments/assets/4ee9a2ab-1672-4b7a-8025-00438caa3ce7)
 
  ## Réalisations
 

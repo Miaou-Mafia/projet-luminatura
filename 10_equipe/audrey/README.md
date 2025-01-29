@@ -1,6 +1,6 @@
 # Audrey Dandurand
 
- ![Audrey Dandurand](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/audrey.jpg)
+![audrey](https://github.com/user-attachments/assets/232ef319-e786-40d9-ae43-4acfa4378a5a)
 
  ## Réalisations
 

@@ -1,6 +1,6 @@
 # Justine Rousseau
 
- ![Justine Rousseau](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/justine.jpg)
+![justine](https://github.com/user-attachments/assets/2fe16225-78e8-440c-a083-cc59b27a0c8a)
 
  ## Réalisations
 
