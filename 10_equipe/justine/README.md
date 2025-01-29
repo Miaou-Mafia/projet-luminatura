@@ -1,6 +1,6 @@
 # Justine Rousseau
 
-![justine](https://github.com/user-attachments/assets/2fe16225-78e8-440c-a083-cc59b27a0c8a)
+![justine](https://github.com/user-attachments/assets/b39707ac-50b8-4c6e-839a-e41dfca9f91e)
 
  ## Réalisations
 
