@@ -11,7 +11,6 @@
 - 3 plaque en bois
 - 2 lanternes 
 - 4 fleurs
-- 3 tuyaux en métal
 - 6 extension pour lumière (câbles) 
 - 1 tissus (3m) de couleur jaune
 - 1 tissus (3m) de couleur rose
