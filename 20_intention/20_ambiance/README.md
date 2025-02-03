@@ -23,11 +23,11 @@ Pour ***Luminatura***, les choix d'ambiances sonores se concentrent sur l'harmon
 ### Planches d'ambiances pour les projections
 **Projection sur les murs**
 
-![moodboard projo murs](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/moodboard-projo-murs.png)
+![moodboard-projo-murs](https://github.com/user-attachments/assets/c3379952-0bc1-471d-bf9e-450a4b4d08e5)
 
 **Projection sur le sol**
 
-![moodboard projo sol](https://github.com/Miaou-Mafia/projet-luminatura/blob/main/assets/images/moodboard-projo-sol.png)
+![moodboard-projo-sol](https://github.com/user-attachments/assets/79a2c2f3-2464-4e66-b24d-9d48ce38e66a)
 
 ### L'esthétique et le design
 
