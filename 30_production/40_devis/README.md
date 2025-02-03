@@ -8,11 +8,15 @@
 - 6 ampoules LED 
 - 2 rideaux/voilages blancs 
 - 3 plaque en métal
+- 3 plaque en bois
 - 2 lanternes 
-- 6 fleurs
+- 4 fleurs
 - 3 tuyaux en métal
 - 6 extension pour lumière (câbles) 
-- 
+- 1 tissus (3m) de couleur jaune
+- 1 tissus (3m) de couleur rose
+- 1 tissus (3m) de couleur blanche
+  
 #### Capteurs et évaluation
 
 | Capteur de type « sensing capacitif » | Composants |
