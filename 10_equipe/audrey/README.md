@@ -13,3 +13,4 @@
 #### Semaine 2
 
 Création des effets sonores et modification de l'ambiance de base sur Reaper, correction du Github ainsi que bricolage des fleurs.
+![Capture](https://github.com/user-attachments/assets/0a13c916-52e8-4f10-a5f3-fd0a251e64a4)
