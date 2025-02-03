@@ -9,3 +9,7 @@
 Séparation des lumières par des adresses différentes, finalisation du github, correction de github et achat des matériaux (lanternes, vignes, mousse, résistances et ampoules DMX 512).
 
 * ![Réalisation 01](https://github.com/user-attachments/assets/a84ca9da-1e12-4ba9-9a2b-1fa248324b66)
+
+#### Semaine 2
+
+Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec une maquette en aluminium, modification des effets sonores et création de l'ambiance de base sur Reaper, ainsi que bricolage des fleurs.

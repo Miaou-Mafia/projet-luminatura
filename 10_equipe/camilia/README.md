@@ -9,3 +9,7 @@
 Clarifier le concept par l'utilisation de 3 plaques au lieu d'une seule et avancement des décorations des lanternes.
 
 * ![Lanternes](https://github.com/user-attachments/assets/2cdebb75-9304-471b-bf94-3e992b640730)
+
+#### Semaine 2
+
+Le bricolage des fleurs et l'achat de tissus pour les fleurs (jaunes, roses, blanches).

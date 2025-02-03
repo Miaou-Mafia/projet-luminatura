@@ -10,3 +10,6 @@ Création de la section asset dans github.
 
 * ![Asset](https://github.com/user-attachments/assets/864cf537-79d0-4e54-a1cf-b92431ee3b47)
 
+#### Semaine 2
+
+Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec une maquette en aluminium.
