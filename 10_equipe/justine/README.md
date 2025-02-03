@@ -12,4 +12,5 @@ Allumer les lumières par l'interface de Qlc+ et commencer le Touchdesigner.
 #### Semaine 2
 
 Création de la projection sur TouchDesigner (projection au sol et au plafond) et bricolage des fleurs.
+<img width="960" alt="travail-30-janvier" src="https://github.com/user-attachments/assets/14a0ebec-f6a5-4a72-a9f0-f8f597e73c5e" />
 
