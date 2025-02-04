@@ -1,6 +1,6 @@
 # Ihab Mouhajer
 
-![ihab](https://github.com/user-attachments/assets/b18e5dcf-7233-4461-be02-8a9fb8cec93f)
+![ihab](https://github.com/user-attachments/assets/96fc7acb-a336-49ec-9670-17cd0358fce1)
 
  ## Réalisations
 
