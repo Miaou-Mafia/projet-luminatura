@@ -13,3 +13,7 @@
 #### Semaine 2
 
 Création des effets sonores et modification de l'ambiance de base sur Reaper, correction du Github ainsi que bricolage des fleurs.
+
+#### Semaine 3
+
+Bricolage des fleurs, achat des matériaux d'accrochage et création des scènes sur QLC+.

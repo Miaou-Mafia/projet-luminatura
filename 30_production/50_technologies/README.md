@@ -5,7 +5,6 @@
 ### Interfaces sur mesure
 * 3 plaques métalliques
 
-
 ## Processeurs
 
 ### Stations de travail multimédia
@@ -44,10 +43,9 @@ Permettent de créer des environnements lumineux dynamiques.
 Utilisés pour développer des expériences interactives où les actions des utilisateurs déclenchent des événements audiovisuels en temps réel.
 
 * TouchDesigner
-* MAX/MSP
 * Reaper
 * Arduino
-* Plugdata
+* Puredata
 
 ## Systèmes de contrôle d’éclairage
 Permettent de synchroniser les projections vidéo, l’éclairage, et le son avec les actions des utilisateurs.
@@ -58,5 +56,4 @@ Permettent de synchroniser les projections vidéo, l’éclairage, et le son ave
 
 ### Médias génératifs
 * TouchDesigner
-* MAX/MSP
 
