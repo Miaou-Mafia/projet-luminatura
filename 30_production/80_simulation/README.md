@@ -8,4 +8,3 @@
 ![vue_haut_02](https://github.com/user-attachments/assets/44ce0505-7999-45ed-96d1-5332bd6a510a)
 ![plaque](https://github.com/user-attachments/assets/efa32586-8ca3-45cd-8cf7-8bb011f0a7e4)
 
-<!---  voir :  https://tim-montmorency.com/582523-gestion/#/contenus/3_planification/30_simulation/  --->
