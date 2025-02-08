@@ -13,6 +13,3 @@ Allumer les lumières par l'interface de Qlc+ et commencer le Touchdesigner.
 
 Création de la projection sur TouchDesigner (projection au sol et au plafond) et bricolage des fleurs.
 
-#### Semaine 3
-
-Création de la projection sur TouchDesigner (projection au sol et au plafond) et bricolage des fleurs.

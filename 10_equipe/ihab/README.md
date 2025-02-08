@@ -13,7 +13,3 @@ Création de la section asset dans github.
 #### Semaine 2
 
 Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec une maquette en aluminium.
-
-#### Semaine 3
-
-Correction du code Arduino/Plugdata et avec Thomas et Prethiah.
