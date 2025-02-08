@@ -8,7 +8,7 @@
 | Description                        | Quantité | Prix unitaire | Coût total | Lien d'achat                                                                    |
 | ---------------------------------- | -------- | ------------- | ---------- | ------------------------------------------------------------------------------- |
 | YAGEO CFR-25JB-52-3M6              | 2        | 0.16          | 0.368$     | [Digikey](https://www.digikey.ca/en/products/detail/yageo/CFR-25JB-52-3M6/1467) |
-| Ampoule LED DMX512                 | 6        | 24.18$        | 192084$    | [Aliexpress](https://www.aliexpress.com/item/32626019053.html)                  |
+| Ampoule LED DMX512                 | 6        | 24.18$        | 192.084$    | [Aliexpress](https://www.aliexpress.com/item/32626019053.html)                  |
 | Transmitter                        | 1        | 19.38$        | 22.28$     | [Aliexpress](https://www.aliexpress.com/item/32626019053.html)                  |
 | Suspension lumineuse avec rallonge | 6        | 15.99$        | 79.33$     | [Amazon](https://www.amazon.ca/dp/B0BGN3B7QG?_encoding=UTF8&th=1)               |
 

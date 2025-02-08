@@ -14,3 +14,7 @@ Création de la section asset dans github.
 
 Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec une maquette en aluminium.
 ![plugdata-arduino-02 1](https://github.com/user-attachments/assets/95ca8ad6-a264-48b0-9f37-a7e60b750c52)
+
+#### Semaine 3
+
+Correction du code Arduino/Plugdata et avec Thomas et Prethiah.

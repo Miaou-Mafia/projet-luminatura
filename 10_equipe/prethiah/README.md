@@ -15,3 +15,7 @@ Séparation des lumières par des adresses différentes, finalisation du github,
 Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec une maquette en aluminium,correction du Github, modification des effets sonores et création de l'ambiance de base sur Reaper, ainsi que bricolage des fleurs.
 
 ![plugdata-arduino-02 1](https://github.com/user-attachments/assets/95ca8ad6-a264-48b0-9f37-a7e60b750c52)
+
+#### Semaine 3
+
+Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour fluidifier l'ouverture et la fermeture des lumières, correction du GitHub, bricolage des fleurs, achat des plaques métalliques et test de celles-ci avec Plugdata.

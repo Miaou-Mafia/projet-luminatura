@@ -14,3 +14,7 @@ Clarifier le concept par l'utilisation de 3 plaques au lieu d'une seule et avanc
 
 Le bricolage des fleurs et l'achat de tissus pour les fleurs (jaunes, roses, blanches).
 ![Image](https://github.com/user-attachments/assets/dc5ce70e-aa91-4f8d-8115-8903647d61c0)
+
+#### Semaine 3
+
+Le bricolage des fleurs.
