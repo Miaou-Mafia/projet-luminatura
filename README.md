@@ -5,15 +5,6 @@ Luminatura est une installation immersive alliant art et technologie, où des fl
 
 ## Documentation vidéo
 
-<!---   
-## Devrait être présent sur cette page:
-
-* Titre
-* Bande-annonce
-* Résumé du projet (~ 100 mots)
-* Documentation vidéo de l'installation en action
-* Gallerie photo du projet réalisé
---->
 
 ## Gallerie photo
 
