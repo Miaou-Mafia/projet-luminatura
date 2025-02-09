@@ -17,4 +17,4 @@ Création des effets sonores et modification de l'ambiance de base sur Reaper, c
 
 #### Semaine 3
 
-Bricolage des fleurs, achat des matériaux d'accrochage et création des scènes sur QLC+.
+Bricolage des fleurs, achat des matériaux d'accrochage, création des scènes sur QLC+ et accrochage de la structure et de la première fleur. 
