@@ -17,4 +17,6 @@ Le bricolage des fleurs et l'achat de tissus pour les fleurs (jaunes, roses, bla
 
 #### Semaine 3
 
-Le bricolage des fleurs et accrochage d'un projecteur et de la structure.
+Le bricolage des fleurs et accrochage d'un projecteur et de la structure principale.
+![image](https://github.com/user-attachments/assets/8c0aa51d-2c25-4308-8b64-2d8547acc6a2)
+
