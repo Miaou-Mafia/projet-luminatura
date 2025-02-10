@@ -19,3 +19,5 @@ Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec u
 #### Semaine 3
 
 Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour fluidifier l'ouverture et la fermeture des lumières, correction du GitHub, bricolage des fleurs, achat des plaques métalliques et test de celles-ci avec Plugdata.
+
+![plantation-luminatura](https://github.com/user-attachments/assets/84ff0b87-c49e-4c95-96e4-5840691d1b86)
