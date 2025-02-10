@@ -18,7 +18,7 @@ Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec u
 
 #### Semaine 3
 
-Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour fluidifier l'ouverture et la fermeture des lumières, correction du GitHub, bricolage des fleurs, achat des plaques métalliques et test de celles-ci avec Plugdata. Accrochage de la première lanterne et décoration des « stands » métalliques.
+Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour fluidifier l'ouverture et la fermeture des lumières, correction du GitHub, bricolage des fleurs, achat des plaques métalliques et test de celles-ci avec Plugdata. Accrochage de la première lanterne et décoration des « stands » métalliques et création d'un compte Youtube pour Miaou Mafia.
 
 ![Réalisation 03](https://github.com/user-attachments/assets/7e82b91a-4469-4391-acd8-5181992d07c3)
 
