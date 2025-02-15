@@ -20,7 +20,10 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * Quelques vignes
 * 2 lanternes
 * 3 fleurs (tissus blanc et jaune ainsi que des fils métalliques)
+* Câble métallique en acier inoxydable
+* Serre-câbles
 * 3 ampoules LED
+* 1 transmetteur
 * 3 extension pour les lumières
 * 2 projecteurs
 
