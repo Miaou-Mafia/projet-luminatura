@@ -22,6 +22,8 @@ Arduino
 
 Puredata
 
+![puredata](https://github.com/user-attachments/assets/15a58055-21bb-4a53-b98e-bf5a1802eb9a)
+
 Reaper (plugdata)
 
 ![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
