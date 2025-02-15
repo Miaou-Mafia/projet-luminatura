@@ -69,6 +69,18 @@ Ordinateur 2:
 | 10003  | Reaper  |
 | 10004  | TouchDesigner - projection sur le mur  |
 
+## Les différents prototypes
+
+#### Les fleurs
+| Prototype 1  |  Prototype 2 | Prototype 03  | Fleur finale |
+|---|---|---|---|
+| ![prototype-01](https://github.com/user-attachments/assets/747c9423-8ccd-490e-b17e-11212664e013)  | ![IMG_2596](https://github.com/user-attachments/assets/52870faf-2a4a-47f2-b50a-ef6d72d4afe2)  |  ![IMG_2684](https://github.com/user-attachments/assets/19c9f100-eebc-4046-94e3-1ea79bf9bea3)  |   ![IMG_2712](https://github.com/user-attachments/assets/138edf2f-8060-4c23-8c96-91cf7e2427ce) |
+
+#### La plaque métallique
+| Prototype 1  |  Prototype 2 | Prototype 3  |   Plaque finale   |
+|---|---|---|---|
+| ![IMG_2650](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe)  | ![Image (3)](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a)  |  ![IMG_2829](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09)  | ![IMG_2838](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
+
 ## Gallerie d'images
 
 * ![Image 1](https://placehold.co/400x400?text=1+image)
