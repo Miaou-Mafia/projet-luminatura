@@ -136,3 +136,5 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 * ![Image 4](https://placehold.co/400x400?text=4+image)
 
 ## Vidéo du la maquette en action
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Ty8B9qVx1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
