@@ -130,9 +130,9 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 
 ## Gallerie d'images
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
+* ![plaque](https://github.com/user-attachments/assets/62f027cf-6e70-4b67-ae67-3018ea011d71)
+* ![ordinateur](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
+* ![stand](https://github.com/user-attachments/assets/fc0e7c8a-3db5-4e45-ae5e-3d0d449cc963)
 * ![Image 4](https://placehold.co/400x400?text=4+image)
 
 ## Vidéo du la maquette en action
