@@ -1,28 +1,35 @@
 # Maquette
-Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résultat de ce test
 
 La maquette de Luminatura a été élaborée pour offrir une **interaction minimale** avec **un seul utilisateur**. Dans ce contexte, on n'utilise qu'une seule plaque pour recevoir les données de la capacitance. À partir de celles-ci, une expérience visuelle, lumineuse et sonore sera créée.
 
-## Composantes essentielles
+## Composantes essentielles de la maquette
 ### Interface utilisateur
-* La plaque et son support
-* La projection sur le sol
+* La plaque en acier
+* Le support (support de hauts-parleurs)
+* La projection sur le sol 
 * La projection sur le mur
 * L'écairage dans les 3 fleurs
 * L'ambiance sonore
+* Effets sonores
 
 ### Matériel et Capteurs
 **Lié à la capacitance**
 * 1 plaque en acier
-* 1 minicontrôleur
+* 1 minicontrôleur Atom M5
+* 3 résisteurs
+* 1 Cable Ethernet
+* Ruban adhésif métalique
+* 1 Cable en acier
 * 1 trépied
 * 2 supports imprimés en 3D
   
 **Lié à l'audio**
 * 1 haut-parleur
+* 1 Cable DMX
+* Carte de son
 
 **Suspension et structure centrale**
-* Quelques vignes
+* 5 vignes 
 * 2 lanternes
 * 3 fleurs (tissus blanc et jaune ainsi que des fils métalliques)
 * Câble métallique en acier inoxydable
@@ -47,6 +54,9 @@ Arduino
 * ![arduino_01](https://github.com/user-attachments/assets/fb2f3160-0e9a-4bfe-85da-dd7367858de0)
 * ![arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
 * ![arduino_03](https://github.com/user-attachments/assets/436a39ad-e6e8-449e-bdde-35cd340b6578)
+
+Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche ou s’en approche. Les données captées sont transmises via le port 8001, utilisant une connexion réseau pour la communication.
+PureData reçoit ces informations et les utilise pour générer des interactions sonores ou visuelles en temps réel.
 
 Puredata
 
