@@ -94,6 +94,9 @@ Ordinateur 2:
 |---|---|---|---|
 | ![IMG_2650](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe)  | ![Image (3)](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a)  |  ![IMG_2829](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09)  | ![IMG_2838](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
 
+## Fonctionnement
+
+
 ## Gallerie d'images
 
 * ![Image 1](https://placehold.co/400x400?text=1+image)
