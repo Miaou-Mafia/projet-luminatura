@@ -16,9 +16,13 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 ### Logiciel et Scripts
 Arduino
 
+![arduino_01](https://github.com/user-attachments/assets/fb2f3160-0e9a-4bfe-85da-dd7367858de0)
+![arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
+![arduino_03](https://github.com/user-attachments/assets/436a39ad-e6e8-449e-bdde-35cd340b6578)
+
 Puredata
 
-Plugdata dans reaper
+Reaper (plugdata)
 
 ![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
 
