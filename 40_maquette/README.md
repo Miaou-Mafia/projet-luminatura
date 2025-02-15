@@ -95,7 +95,8 @@ Ordinateur 2:
 | ![IMG_2650](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe)  | ![Image (3)](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a)  |  ![IMG_2829](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09)  | ![IMG_2838](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
 
 ## Fonctionnement
-
+### Flux de données et d’interactions
+À la base de la maquette, Arduino aquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
 
 ## Gallerie d'images
 
