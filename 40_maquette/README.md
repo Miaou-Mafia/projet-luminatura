@@ -12,6 +12,17 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * L'ambiance sonore
 
 ### Matériel et Capteurs
+* 1 plaque en acier
+* 1 minicontrôleur
+* 1 trépied
+* 1 haut-parleur
+* 2 supports imprimés en 3D
+* Quelques vignes
+* 2 lanternes
+* 3 fleurs (tissus blanc et jaune ainsi que des fils métalliques)
+* 3 ampoules LED
+* 3 extension pour les lumières
+* 2 projecteurs
 
 ### Logiciel et Scripts
 Arduino
