@@ -26,6 +26,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 1 transmetteur
 * 3 extension pour les lumières
 * 2 projecteurs
+* 2 ordinateurs
 
 ### Logiciel et Scripts
 Arduino
@@ -42,6 +43,31 @@ Reaper (plugdata)
 
 ![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
 
+QLC+
+
+![qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
+![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
+
+## Gestion des données et des fichiers multimédias
+
+### Gestion des logiciels sur deux ordinateurs
+Ordinateur 1:
+* QLC+
+* Reaper
+* Projection au mur
+
+Ordinateur 2:
+* Arduino
+* Puredata
+* Projection au sol
+
+### Les différents ports utilisés
+| Port  |  Fonction |
+|---|---|
+| 10001  | Qlc+  |
+| 10002  | TouchDesigner - projection sur le sol  |
+| 10003  | Reaper  |
+| 10004  | TouchDesigner - projection sur le mur  |
 
 ## Gallerie d'images
 
