@@ -1,7 +1,7 @@
 # Maquette
 Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résultat de ce test
 
-La maquette de Luminatura a été élaborée pour offrir une interaction minimale avec un seul utilisateur. Dans ce contexte, on n'utilise qu'une seule plaque pour recevoir les données de la capacitance. À partir de celles-ci, une expérience visuelle, lumineuse, sonore et sonore sera créée.
+La maquette de Luminatura a été élaborée pour offrir une interaction minimale avec un seul utilisateur. Dans ce contexte, on n'utilise qu'une seule plaque pour recevoir les données de la capacitance. À partir de celles-ci, une expérience visuelle, lumineuse et sonore sera créée.
 
 ## Gallerie d'images
 
