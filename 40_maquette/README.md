@@ -3,7 +3,7 @@ Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résult
 
 La maquette de Luminatura a été élaborée pour offrir une **interaction minimale** avec **un seul utilisateur**. Dans ce contexte, on n'utilise qu'une seule plaque pour recevoir les données de la capacitance. À partir de celles-ci, une expérience visuelle, lumineuse et sonore sera créée.
 
-## Composantes Essentielles
+## Composantes essentielles
 ### Interface utilisateur
 * La plaque et son support
 * La projection sur le sol
@@ -97,6 +97,20 @@ Ordinateur 2:
 ## Fonctionnement
 ### Flux de données et d’interactions
 À la base de la maquette, Arduino aquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
+
+
+### Mode d'emploi des lumières
+#### Association des lumières
+*Associer les lumières une à la fois
+
+*Un channel par lumière
+
+Choisir un channel spécifique et allumer la lumière. Dans les 10 prochaines secondes, cliquer trois fois sur le bouton set du transmetteur. La lumière devrait clignoter 3 fois en vert pour démontrer son association.
+
+Pour une seconde lumière, éteindre la première lumière déjà associée et changer de channel sur le transmetteur. Maintenant, allumer la deuxième lumière et refaire le même processus que fait précédemment sur la première lumière.
+
+#### Disassociation des lumières
+Éteindre les lumières et les rallumer. Dans les 5 prochaines secondes, appuyer 5 fois sur le bouton set du transmetteur. Les lumières devraient clignoter 10 fois en rouge pour démontrer leur dissociation du transmetteur.
 
 ## Gallerie d'images
 
