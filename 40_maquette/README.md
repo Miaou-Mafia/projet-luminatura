@@ -98,6 +98,22 @@ Ordinateur 2:
 ### Flux de données et d’interactions
 À la base de la maquette, Arduino aquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
 
+```mermaid
+graph TD;
+    Plaque-->Minicontroleur;
+    Minicontroleur-->Arduino;
+    Arduino-->Puredata;
+    Puredata-->DonneeBrute[Données brutes];
+    Puredata-->Donne1-0[Données booléenne 1-0];
+    DonneeBrute-->| Port: 10002 |TouchDesignerSol;
+    DonneeBrute-->| Port: 10004 |TouchDesignerMur;
+    Donne1-0-->| Port: 10001 |QLC+;
+    Donne1-0-->| Port: 10003 |Reaper;
+    QLC+-->ActivationChaser[Activation du chaser rose par l'intensité lumineuse];
+    Reaper-->| Lors d'interraction |DéclenchementSonCourt1[Déclenchement du premier son court];
+    DéclenchementSonCourt1-->| Délai de 7 secondes |DéclenchementSonLong[Déclenchement du son long]
+    Reaper-->| Plaque inactive |DéclenchementSonCourt2[Déclenchement du deuxième son court];
+```
 
 ### Mode d'emploi des lumières
 #### Association des lumières
