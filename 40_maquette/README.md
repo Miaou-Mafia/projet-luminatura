@@ -48,7 +48,7 @@ QLC+
 ![qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
 ![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
-## Gestion des données et des fichiers multimédias
+## Gestion des données et des logiciels
 
 ### Gestion des logiciels sur deux ordinateurs
 Ordinateur 1:
