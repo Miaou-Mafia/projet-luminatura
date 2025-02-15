@@ -1,4 +1,5 @@
 # Maquette
+Documentation de la maquette, son fonctionnement, ce qu'elle teste et le résultat de ce test
 
 ## Gallerie d'images
 
