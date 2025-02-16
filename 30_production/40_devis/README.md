@@ -6,7 +6,6 @@
 
 - 25-30 vignes artificielles en plastique 
 - 6 ampoules LED 
-- 2 rideaux/voilages blancs 
 - 3 plaque en acier
 - 2 lanternes 
 - 6 fleurs
@@ -14,6 +13,9 @@
 - 1 tissus (3m) de couleur jaune
 - 1 tissus (3m) de couleur rose
 - 1 tissus (3m) de couleur blanche
+- 3 résisteurs
+- 1 Cable en acier
+- Ruban adhésif métalique
   
 #### Capteurs et évaluation
 
@@ -32,6 +34,12 @@
 - Câbles (HDMI, Ethernet, audio)
 - 1 ordinateur 
 - 2 haut-parleurs GENELEC 8030C
+- Le support (support des hauts-parleurs)
+- 2 supports imprimés en 3D
+- 1 Cable DMX
+- 1 Carte de son
+- 1 minicontrôleur Atom M5
+- 1 Cable Ethernet
 
 ### Logiciels 
 
@@ -41,6 +49,7 @@
 | Logiciel | Technique                                                         |
 | -------- | ----------------------------------------------------------------- |
 | Reaper   | Montage sonore (de base)                                          |
+| Plugdata | Effets sonores (changement)                                       |
 | Arduino  | Capteur de type « sensing capacitif » et connexion des composants |
 
 ### Logiciels fournis par le cégep
