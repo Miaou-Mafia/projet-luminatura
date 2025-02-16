@@ -77,7 +77,7 @@ Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse 
 ![qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
 ![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
-Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un port différent entre 1000 à 10004.
+Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un channel différent.
 
 ## Gestion des données et des logiciels
 
