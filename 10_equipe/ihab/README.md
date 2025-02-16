@@ -19,4 +19,6 @@ Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec u
 
 Correction du code Arduino/Plugdata et avec Thomas et Prethiah.
 
+![Code Arduino](https://github.com/user-attachments/assets/68b9bbaf-dd6e-472d-89ac-8d654de2790a)
+
 #### Semaine 4
