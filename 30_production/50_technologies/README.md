@@ -46,6 +46,7 @@ Utilisés pour développer des expériences interactives où les actions des uti
 * Reaper
 * Arduino
 * PureData
+* Plugdata
 
 ## Systèmes de contrôle d’éclairage
 Permettent de synchroniser les projections vidéo, l’éclairage, et le son avec les actions des utilisateurs.
