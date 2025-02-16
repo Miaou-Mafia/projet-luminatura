@@ -24,7 +24,8 @@ Bricolage des fleurs, achat des matériaux d'accrochage, création des scènes s
 
 #### Semaine 4
 
-Configuration de Reaper (Plugdata) pour les sons, assemblage du stand, connexion de Pure Data avec Reaper et ajout d'information sur la page maquette du GitHub, accrochage des fleurs.
+Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la plaque, liaison du microcontroleur et de la plaque par un fil de cuivre ,connexion de Pure Data avec Reaper, ajout d'informations sur la page maquette du GitHub, accrochage des fleurs et assemblage de la 2e fleur.
 
 ![semaine-04](https://github.com/user-attachments/assets/10a03411-cfc7-4522-be77-07f1f3928492)
+![semaine-04.2](https://github.com/user-attachments/assets/700cbc6e-d66f-4c7d-b959-2c0923b32cdd)
 
