@@ -5,7 +5,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 ## Composantes essentielles de la maquette
 ### Interface utilisateur
 * La plaque en acier
-* Le support (support de hauts-parleurs)
+* Le support (support des hauts-parleurs)
 * La projection sur le sol 
 * La projection sur le mur
 * L'écairage dans les 3 fleurs
@@ -26,7 +26,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 **Lié à l'audio**
 * 1 haut-parleur
 * 1 Cable DMX
-* Carte de son
+* 1 Carte de son
 
 **Suspension et structure centrale**
 * 5 vignes 
@@ -46,10 +46,12 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 2 projecteurs
 
 **Lié à la gestion**
-* 2 ordinateurs
+* 1 ordinateur portable
+* 1 PC
 
 ### Logiciel et Scripts
-Arduino
+
+#### Arduino
 
 * ![arduino_01](https://github.com/user-attachments/assets/fb2f3160-0e9a-4bfe-85da-dd7367858de0)
 * ![arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
@@ -58,28 +60,34 @@ Arduino
 Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche ou s’en approche. Les données captées sont transmises via le port 8001, utilisant une connexion réseau pour la communication.
 PureData reçoit ces informations et les utilise pour générer des interactions sonores ou visuelles en temps réel.
 
-Puredata
+#### Puredata
 
 ![puredata](https://github.com/user-attachments/assets/15a58055-21bb-4a53-b98e-bf5a1802eb9a)
 
-Reaper (plugdata)
+Le code PureData collecte les données brutes d'Arduino en fonction de la capacitance de l'utilisateur. Ensuite, un effet de transition fluide est appliqué pour lisser les valeurs. Puis, il envoie deux types de données : les données brutes et les données booléennes. Ces données sont transmises à des ports spécifiques pour chaque logiciel sur le PC.
+
+#### Reaper (plugdata)
 
 ![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
 
-QLC+
+Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher des sons et éteindre des sons à partir de l'OSC.
+
+#### QLC+
 
 ![qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
 ![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
+Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un port différent entre 1000 à 10004.
+
 ## Gestion des données et des logiciels
 
 ### Gestion des logiciels sur deux ordinateurs
-Ordinateur 1:
+Ordinateur 1 (PC):
 * QLC+
 * Reaper
 * Projection au mur
 
-Ordinateur 2:
+Ordinateur 2 (Ordinateur portable):
 * Arduino
 * Puredata
 * Projection au sol
@@ -89,7 +97,7 @@ Ordinateur 2:
 |---|---|
 | 10001  | Qlc+  |
 | 10002  | TouchDesigner - projection sur le sol  |
-| 10003  | Reaper  |
+| 10003  | Reaper avec Plugdata |
 | 10004  | TouchDesigner - projection sur le mur  |
 
 ## Les différents prototypes
@@ -158,7 +166,6 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 * ![ordinateur](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
 * ![stand](https://github.com/user-attachments/assets/fc0e7c8a-3db5-4e45-ae5e-3d0d449cc963)
 * ![projection](https://github.com/user-attachments/assets/46979407-bc4a-4576-be79-92e1c6e9e297)
-
 
 ## Vidéo du la maquette en action
 
