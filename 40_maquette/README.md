@@ -108,6 +108,20 @@ Ordinateur 2:
 ### Flux de données et d’interactions
 À la base de la maquette, Arduino aquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
 
+#### Reaper  
+Les données booléennes de PureData sont envoyées à Reaper, qui les utilise pour déclencher trois sons en fonction de l'interaction avec la plaque.  
+Lorsque l’utilisateur pose sa main sur la plaque, un son magique est joué, suivi d’un son de ruissellement d’eau tant que le contact est maintenu.  
+Dès que la main est retirée, un son de grenouille se fait entendre, signalant la fin de l’interaction sonore.  
+
+#### QLC+  
+En parallèle, ces mêmes données booléennes sont envoyées à QLC+ pour déclencher un chaser lumineux.  
+Lorsque l’utilisateur interagit avec la plaque, le chaser s’active et illumine les ampoules avec des teintes de rose, créant une ambiance visuelle synchronisée avec le son.  
+
+#### TouchDesigner  
+Enfin, les données brutes sont transmises à TouchDesigner pour modifier la projection visuelle.  
+Lorsque l’utilisateur pose sa main sur la plaque, le visuel s’intensifie, renforçant l’immersion dans l'expérience interactive.  
+À l’inverse, lorsque la main est retirée, les effets visuels s’atténuent progressivement, accompagnant la fin du son et des lumières.  
+
 ```mermaid
 graph TD;
     Plaque-->Minicontroleur;
