@@ -20,6 +20,12 @@ Création de la projection sur TouchDesigner (projection au sol et au plafond) e
 
 Création de la projection sur TouchDesigner (projection au sol et au plafond) et bricolage des fleurs.
 
+![semaine-03](https://github.com/user-attachments/assets/f38d4813-6750-4da2-ad92-82ed7e651a7d)
+
 #### Semaine 4
 
 Acrochage du deuxième projecteur, connection entre Touchdesigner et Puredata, configuer les réglages des projecteurs, ajustement des visuels de Touch Designer.
+
+![semaine-04](https://github.com/user-attachments/assets/1e06d1ab-d38a-4fdc-b615-d52b4f09b5bb)
+
+
