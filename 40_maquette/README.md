@@ -43,7 +43,8 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 3 extension pour les lumières
 
 **Lié à la projection**
-* 2 projecteurs
+* 1 projecteur qui se projete au sol
+* 1 projecteur qui se projete au mur
 
 **Lié à la gestion**
 * 1 ordinateur portable
@@ -57,8 +58,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * ![arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
 * ![arduino_03](https://github.com/user-attachments/assets/436a39ad-e6e8-449e-bdde-35cd340b6578)
 
-Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche ou s’en approche. Les données captées sont transmises via le port 8001, utilisant une connexion réseau pour la communication.
-PureData reçoit ces informations et les utilise pour générer des interactions sonores ou visuelles en temps réel.
+Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche la plaque en acier. Les données captées sont transmises via le port 8001, utilisant une connexion réseau ethernet pour la communication. PureData reçoit ces informations et les utilise pour générer des interactions sonores et visuelles en temps réel.
 
 #### Puredata
 
@@ -70,7 +70,7 @@ Le code PureData collecte les données brutes d'Arduino en fonction de la capaci
 
 ![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
 
-Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher des sons et éteindre des sons à partir de l'OSC.
+Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher des sons et éteindre des sons à partir de l'OSCParse.
 
 #### QLC+
 
@@ -78,6 +78,12 @@ Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse 
 ![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
 Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un channel différent.
+
+| Ampoules   | Channel    |
+| ---------- | ---------- |
+| Ampoule 01 | Channel 01 |
+| Ampoule 02 | Channel 02 |
+| Ampoule 03 | Channel 03 |
 
 ## Gestion des données et des logiciels
 
@@ -93,33 +99,31 @@ Ordinateur 2 (Ordinateur portable):
 * Projection au sol
 
 ### Les différents ports utilisés
-| Port  |  Fonction |
-|---|---|
-| 10001  | Qlc+  |
-| 10002  | TouchDesigner - projection sur le sol  |
-| 10003  | Reaper avec Plugdata |
-| 10004  | TouchDesigner - projection sur le mur  |
+| Port  | Fonction                              |
+| ----- | ------------------------------------- |
+| 10001 | Qlc+                                  |
+| 10002 | TouchDesigner - projection sur le sol |
+| 10003 | Reaper incluant le fichier Plugdata   |
+| 10004 | TouchDesigner - projection sur le mur |
 
 ## Les différents prototypes
 
 #### Les fleurs
-| Prototype 1  |  Prototype 2 | Prototype 03  | Fleur finale |
-|---|---|---|---|
-| ![prototype-01](https://github.com/user-attachments/assets/747c9423-8ccd-490e-b17e-11212664e013)  | ![IMG_2596](https://github.com/user-attachments/assets/52870faf-2a4a-47f2-b50a-ef6d72d4afe2)  |  ![IMG_2684](https://github.com/user-attachments/assets/19c9f100-eebc-4046-94e3-1ea79bf9bea3)  |   ![IMG_2712](https://github.com/user-attachments/assets/138edf2f-8060-4c23-8c96-91cf7e2427ce) |
+| Prototype 1                                                                                      | Prototype 2                                                                                      | Prototype 03                                                                                     | Fleur finale                                                                                         |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| ![prototype-01](https://github.com/user-attachments/assets/747c9423-8ccd-490e-b17e-11212664e013) | ![prototype-02](https://github.com/user-attachments/assets/52870faf-2a4a-47f2-b50a-ef6d72d4afe2) | ![prototype-03](https://github.com/user-attachments/assets/19c9f100-eebc-4046-94e3-1ea79bf9bea3) | ![prototype-finale](https://github.com/user-attachments/assets/138edf2f-8060-4c23-8c96-91cf7e2427ce) |
 
 #### La plaque métallique
-| Prototype 1  |  Prototype 2 | Prototype 3  |   Plaque finale   |
-|---|---|---|---|
-| ![IMG_2650](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe)  | ![Image (3)](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a)  |  ![IMG_2829](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09)  | ![IMG_2838](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
+| Prototype 1                                                                                      | Prototype 2                                                                                      | Prototype 3                                                                                      | Plaque finale                                                                                        |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| ![prototype-01](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe) | ![prototype-02](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a) | ![prototype-03](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09) | ![prototype-finale](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
 
 ## Fonctionnement
 ### Flux de données et d’interactions
 À la base de la maquette, Arduino aquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
 
 #### Reaper  
-Les données booléennes de PureData sont envoyées à Reaper, qui les utilise pour déclencher trois sons en fonction de l'interaction avec la plaque.  
-Lorsque l’utilisateur pose sa main sur la plaque, un son magique est joué, suivi d’un son de ruissellement d’eau tant que le contact est maintenu.  
-Dès que la main est retirée, un son de grenouille se fait entendre, signalant la fin de l’interaction sonore.  
+Les données booléennes de PureData sont envoyées à Reaper, qui les utilise pour déclencher trois sons en fonction de l'interaction avec la plaque. Lorsque l’utilisateur pose sa main sur la plaque, un son magique est joué, suivi d’un son de ruissellement d’eau tant que le contact est maintenu.  Dès que la main est retirée, un son de grenouille se fait entendre, signalant la fin de l’interaction sonore.  
 
 #### QLC+  
 En parallèle, ces mêmes données booléennes sont envoyées à QLC+ pour déclencher un chaser lumineux.  

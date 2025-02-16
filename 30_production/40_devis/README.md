@@ -15,11 +15,12 @@
 - 1 tissus (3m) de couleur blanche
 - 3 résisteurs
 - 1 Cable en acier
+- 6 Câble métallique en acier inoxydable
 - Ruban adhésif métalique
   
 #### Capteurs et évaluation
 
-|                  | Composants |
+| Capteur          | Composants |
 | ---------------- | ---------- |
 | Microcontrôleurs | M5 Stack   |
 
@@ -28,18 +29,19 @@
 | Support en métal pour la plaque métallique | Composants               |
 | ------------------------------------------ | ------------------------ |
 | Vis et boulons                             | Assemblage et durabilité |
+| 2 supports imprimés en 3D                  | Assemblage et durabilité |
 
 ### Équipements fournis par le cégep
 
 - Câbles (HDMI, Ethernet, audio)
-- 1 ordinateur 
-- 2 haut-parleurs GENELEC 8030C
+- 1 PC
+- 3 haut-parleurs GENELEC 8030C
 - Le support (support des hauts-parleurs)
 - 2 supports imprimés en 3D
 - 1 Cable DMX
 - 1 Carte de son
 - 1 minicontrôleur Atom M5
-- 1 Cable Ethernet
+- 5 Cables Ethernet
 
 ### Logiciels 
 

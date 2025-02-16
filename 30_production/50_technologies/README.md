@@ -11,6 +11,7 @@
 Nécessaires pour le traitement en temps réel des médias riches (vidéo, audio, projection).
 
 * PC avec GPU dédié
+* Ordinateur portable avec GPU dédié
 
 ### Microcontrôleurs
 Utilisés pour des tâches spécifiques de calcul en temps réel, comme le contrôle des lumières ou des moteurs dans des installations interactives.
@@ -57,4 +58,5 @@ Permettent de synchroniser les projections vidéo, l’éclairage, et le son ave
 
 ### Médias génératifs
 * TouchDesigner
+* Reaper (Surge)
 
