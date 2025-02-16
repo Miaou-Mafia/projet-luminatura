@@ -20,10 +20,11 @@ Création des effets sonores et modification de l'ambiance de base sur Reaper, c
 
 Bricolage des fleurs, achat des matériaux d'accrochage, création des scènes sur QLC+, test de la plaque métallique et accrochage de la structure et de la première fleur. 
 
-![semaine-03](https://github.com/user-attachments/assets/9f4dfca5-599f-4328-98f6-90ded80fffcf)
-
 ![semaine-03](https://github.com/user-attachments/assets/cb36fa53-a55d-4778-9f5d-21d1128a90c9)
 
 #### Semaine 4
 
 Configuration de Reaper (Plugdata) pour les sons, assemblage du stand, connexion de Pure Data avec Reaper et ajout d'information sur la page maquette du GitHub, accrochage des fleurs.
+
+![semaine-04](https://github.com/user-attachments/assets/10a03411-cfc7-4522-be77-07f1f3928492)
+
