@@ -1,4 +1,5 @@
 # Synoptique
+
 ```mermaid
 graph TD;  
   %% Composants     

@@ -2,22 +2,23 @@
 
 ### Équipements et matériaux
 ---
+
 ### Équipements fournis par les artistes
 
-- 25-30 vignes artificielles en plastique 
-- 6 ampoules LED 
-- 3 plaque en acier
-- 2 lanternes 
+- 25-30 vignes artificielles en plastique
+- 6 ampoules LED
+- 3 plaques en acier
+- 2 lanternes
 - 6 fleurs
-- 6 extension pour lumière (câbles) 
-- 1 tissus (3m) de couleur jaune
-- 1 tissus (3m) de couleur rose
-- 1 tissus (3m) de couleur blanche
-- 3 résisteurs
-- 1 Cable en acier
-- 6 Câble métallique en acier inoxydable
-- Ruban adhésif métalique
-  
+- 6 extensions pour lumière (câbles)
+- 1 tissu (3m) de couleur jaune
+- 1 tissu (3m) de couleur rose
+- 1 tissu (3m) de couleur blanche
+- 3 résistances
+- 1 câble en acier
+- 6 câbles métalliques en acier inoxydable
+- Ruban adhésif métallique
+
 #### Capteurs et évaluation
 
 | Capteur          | Composants |
@@ -36,18 +37,18 @@
 - Câbles (HDMI, Ethernet, audio)
 - 1 PC
 - 3 haut-parleurs GENELEC 8030C
-- Le support (support des hauts-parleurs)
+- Le support (support des haut-parleurs)
 - 2 supports imprimés en 3D
-- 1 Cable DMX
-- 1 Carte de son
-- 1 minicontrôleur Atom M5
-- 5 Cables Ethernet
+- 1 câble DMX
+- 1 carte de son
+- 1 microcontrôleur Atom M5
+- 5 câbles Ethernet
 
-### Logiciels 
-
+### Logiciels
 ---
+
 ### Logiciels fournis par les artistes
-  
+
 | Logiciel | Technique                                                         |
 | -------- | ----------------------------------------------------------------- |
 | Reaper   | Montage sonore (de base)                                          |
@@ -58,12 +59,12 @@
 
 | Logiciel | Technique                                 |
 | -------- | ----------------------------------------- |
-| QLC+     | Création des scènes lumineuses            |
+| QLC+     | Création des scènes lumineuses           |
 | Puredata | Envoi de données des différents logiciels |
 
 ### Mise en réseau et communication
-
 ---
+
 ### Fourni par le cégep
 
 | Système de communication | Logiciel | Interaction         |

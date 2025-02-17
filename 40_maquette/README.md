@@ -55,36 +55,36 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 
 #### Arduino
 
-* ![arduino_01](https://github.com/user-attachments/assets/fb2f3160-0e9a-4bfe-85da-dd7367858de0)
-* ![arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
-* ![arduino_03](https://github.com/user-attachments/assets/436a39ad-e6e8-449e-bdde-35cd340b6578)
+* ![code_arduino_01](https://github.com/user-attachments/assets/fb2f3160-0e9a-4bfe-85da-dd7367858de0)
+* ![code_arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
+* ![code_arduino_03](https://github.com/user-attachments/assets/436a39ad-e6e8-449e-bdde-35cd340b6578)
 
 Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche la plaque en acier. Les données captées sont transmises via le port 8001, utilisant une connexion réseau Ethernet pour la communication. PureData reçoit ces informations et les utilise pour générer des interactions sonores et visuelles en temps réel.
 
 #### Puredata
 
-![puredata](https://github.com/user-attachments/assets/15a58055-21bb-4a53-b98e-bf5a1802eb9a)
+![code_puredata](https://github.com/user-attachments/assets/15a58055-21bb-4a53-b98e-bf5a1802eb9a)
 
 Le code PureData collecte les données brutes d'Arduino en fonction de la capacitance de l'utilisateur. Ensuite, un effet de transition fluide est appliqué pour lisser les valeurs. Puis, il envoie deux types de données : les données brutes et les données booléennes. Ces données sont transmises à des ports spécifiques pour chaque logiciel sur le PC.
 
 #### Reaper (plugdata)
 
-![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
+![code_plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
 
 Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher et éteindre des sons à partir de l'OSCParse.
 
 #### QLC+
 
-![qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
-![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
+![configuration_qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
+![configuration_qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
-Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un channel différent sur le transmetteur.
+Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un canal différent sur le transmetteur.
 
-| Ampoules   | Channel    |
-| ---------- | ---------- |
-| Ampoule 01 | Channel 01 |
-| Ampoule 02 | Channel 02 |
-| Ampoule 03 | Channel 03 |
+| Ampoules   | Canal    |
+| ---------- | -------- |
+| Ampoule 01 | Canal 01 |
+| Ampoule 02 | Canal 02 |
+| Ampoule 03 | Canal 03 |
 
 ## Gestion des données et des logiciels
 
@@ -112,12 +112,12 @@ Ordinateur 2 (Ordinateur portable):
 #### Les fleurs
 | Prototype 1                                                                                      | Prototype 2                                                                                      | Prototype 03                                                                                     | Fleur finale                                                                                         |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| ![prototype-01](https://github.com/user-attachments/assets/747c9423-8ccd-490e-b17e-11212664e013) | ![prototype-02](https://github.com/user-attachments/assets/52870faf-2a4a-47f2-b50a-ef6d72d4afe2) | ![prototype-03](https://github.com/user-attachments/assets/19c9f100-eebc-4046-94e3-1ea79bf9bea3) | ![prototype-finale](https://github.com/user-attachments/assets/138edf2f-8060-4c23-8c96-91cf7e2427ce) |
+| ![prototype_01](https://github.com/user-attachments/assets/747c9423-8ccd-490e-b17e-11212664e013) | ![prototype_02](https://github.com/user-attachments/assets/52870faf-2a4a-47f2-b50a-ef6d72d4afe2) | ![prototype_03](https://github.com/user-attachments/assets/19c9f100-eebc-4046-94e3-1ea79bf9bea3) | ![prototype_finale](https://github.com/user-attachments/assets/138edf2f-8060-4c23-8c96-91cf7e2427ce) |
 
 #### La plaque métallique
 | Prototype 1                                                                                      | Prototype 2                                                                                      | Prototype 3                                                                                      | Plaque finale                                                                                        |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| ![prototype-01](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe) | ![prototype-02](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a) | ![prototype-03](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09) | ![prototype-finale](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
+| ![prototype_01](https://github.com/user-attachments/assets/a8e3cfb5-b7d5-4784-a9e2-f3bf43485bbe) | ![prototype_02](https://github.com/user-attachments/assets/5a681163-cc7e-4ab2-845d-6b757697a32a) | ![prototype_03](https://github.com/user-attachments/assets/a6e8fe81-631c-4c1a-8f09-09745df01d09) | ![prototype_finale](https://github.com/user-attachments/assets/01d67a14-95b7-462a-8dd1-4e5ccd30baf9) |
 
 ## Fonctionnement
 ### Flux de données et d’interactions
@@ -172,11 +172,11 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 ## Gallerie d'images
 
 * ![plaque](https://github.com/user-attachments/assets/62f027cf-6e70-4b67-ae67-3018ea011d71)
-* ![plaque-01](https://github.com/user-attachments/assets/54320544-259c-4ffc-9c82-135e21246c2c)
-* ![stand](https://github.com/user-attachments/assets/68880dce-232f-4d65-aff7-acc193686df4)
-* ![ordinateur-01](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
-* ![ordinateur-02](https://github.com/user-attachments/assets/48dc59c5-9027-409d-97c4-e2b860120eeb)
-* ![structure](https://github.com/user-attachments/assets/ddc18853-0d4d-454f-af0d-771704c8a3b2)
+* ![plaque_01](https://github.com/user-attachments/assets/54320544-259c-4ffc-9c82-135e21246c2c)
+* ![support](https://github.com/user-attachments/assets/68880dce-232f-4d65-aff7-acc193686df4)
+* ![ordinateur_01](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
+* ![ordinateur_02](https://github.com/user-attachments/assets/48dc59c5-9027-409d-97c4-e2b860120eeb)
+* ![structure_base](https://github.com/user-attachments/assets/ddc18853-0d4d-454f-af0d-771704c8a3b2)
 * ![projection](https://github.com/user-attachments/assets/46979407-bc4a-4576-be79-92e1c6e9e297)
 
 ## Vidéo du la maquette en action

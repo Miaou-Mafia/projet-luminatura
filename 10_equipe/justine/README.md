@@ -2,11 +2,11 @@
 
 ![justine](https://github.com/user-attachments/assets/b39707ac-50b8-4c6e-839a-e41dfca9f91e)
 
- ## Réalisations
+## Réalisations
 
 #### Semaine 1
 
-Allumer les lumières par l'interface de Qlc+ et commencer le Touchdesigner.
+Allumage des lumières via l'interface de QLC+ et début de l'utilisation de TouchDesigner.
 
 ![semaine-01](https://github.com/user-attachments/assets/bc130b6a-495e-4a11-b1ad-cd6857ac7b13)
 
@@ -24,8 +24,7 @@ Création de la projection sur TouchDesigner (projection au sol et au plafond) e
 
 #### Semaine 4
 
-Accrochage du deuxième projecteur, configuration de la connexion entre TouchDesigner et PureData, configuration des réglages des projecteurs et ajustement des visuels sur TouchDesigner.
+Accrochage du deuxième projecteur, configuration de la connexion entre TouchDesigner et PureData, réglage des projecteurs et ajustement des visuels sur TouchDesigner.
 
 ![semaine-04](https://github.com/user-attachments/assets/1e06d1ab-d38a-4fdc-b615-d52b4f09b5bb)
-
 

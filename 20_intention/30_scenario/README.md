@@ -1,6 +1,7 @@
 # Scénario
 
-## Scénario interractif
+## Scénario interactif
+
 ```mermaid
 graph TD;
 
@@ -60,7 +61,7 @@ graph TD;
 ```
 ### Schéma spécifique
 
-![interactions](https://github.com/user-attachments/assets/d40775ee-7d48-4004-ac14-93e8e4af9fce)
-![interactions_visuelles](https://github.com/user-attachments/assets/e88defce-ce2d-4dfd-8d09-cdc2c1139ec8)
+![intéractions](https://github.com/user-attachments/assets/d40775ee-7d48-4004-ac14-93e8e4af9fce)
+![intéractions_visuelles](https://github.com/user-attachments/assets/e88defce-ce2d-4dfd-8d09-cdc2c1139ec8)
 
 

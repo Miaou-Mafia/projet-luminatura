@@ -2,11 +2,11 @@
 
 ![ihab](https://github.com/user-attachments/assets/de369a2f-4571-4dd2-89d8-94ea923ebf3e)
 
- ## Réalisations
+## Réalisations
 
 #### Semaine 1
 
-Création de la section asset dans github.
+Création de la section « assets » sur GitHub.
 
 ![semaine-01](https://github.com/user-attachments/assets/864cf537-79d0-4e54-a1cf-b92431ee3b47)
 
@@ -18,7 +18,7 @@ Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec u
 
 #### Semaine 3
 
-Correction du code Arduino/Plugdata et avec Thomas et Prethiah.
+Correction du code Arduino/PlugData avec Thomas et Prethiah.
 
 ![semaine-03](https://github.com/user-attachments/assets/68b9bbaf-dd6e-472d-89ac-8d654de2790a)
 
