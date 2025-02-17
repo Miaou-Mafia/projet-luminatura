@@ -22,6 +22,7 @@ Le bricolage des fleurs et accrochage d'un projecteur et de la structure princip
 
 #### Semaine 4
 
-Correction du problème du projecteur au sol, fabrication des fleurs, fixation des fleurs et montage du stand.
-![seamine-04](https://github.com/user-attachments/assets/6e869397-8b74-4c06-bb40-99989d19cef3)
+Correction du problème du projecteur au sol, fabrication des fleurs, fixation des fleurs et assemblage du support et de la plaque.
+
+![semaine-04](https://github.com/user-attachments/assets/6e869397-8b74-4c06-bb40-99989d19cef3)
 

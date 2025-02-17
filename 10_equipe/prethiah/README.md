@@ -24,10 +24,9 @@ Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour flui
 
 #### Semaine 4
 
-Configuration de Reaper (Plugdata) pour les sons, assemblage du stand, connection de Puredata avec Reaper, connection de Touchdesigner avec Reaper et correction du Github.
+Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la plaque, liaison du microcontrôleur avec le support, configuration de la connexion de PureData avec Reaper, configuration de la connexion de TouchDesigner avec Reaper et ajustement du GitHub.
 
 ![semaine-04](https://github.com/user-attachments/assets/f032b334-1299-4930-bb87-329a20bd906a)
 ![semaine-04.2](https://github.com/user-attachments/assets/e52345e5-e6c0-4243-83ae-9b7ebced454e)
-
 
 

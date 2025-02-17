@@ -24,7 +24,7 @@ Création de la projection sur TouchDesigner (projection au sol et au plafond) e
 
 #### Semaine 4
 
-Acrochage du deuxième projecteur, connection entre Touchdesigner et Puredata, configuer les réglages des projecteurs, ajustement des visuels de Touch Designer.
+Accrochage du deuxième projecteur, configuration de la connexion entre TouchDesigner et PureData, configuration des réglages des projecteurs et ajustement des visuels sur TouchDesigner.
 
 ![semaine-04](https://github.com/user-attachments/assets/1e06d1ab-d38a-4fdc-b615-d52b4f09b5bb)
 
