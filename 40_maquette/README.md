@@ -172,8 +172,11 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 ## Gallerie d'images
 
 * ![plaque](https://github.com/user-attachments/assets/62f027cf-6e70-4b67-ae67-3018ea011d71)
-* ![ordinateur](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
-* ![stand](https://github.com/user-attachments/assets/fc0e7c8a-3db5-4e45-ae5e-3d0d449cc963)
+* ![plaque-01](https://github.com/user-attachments/assets/54320544-259c-4ffc-9c82-135e21246c2c)
+* ![stand](https://github.com/user-attachments/assets/68880dce-232f-4d65-aff7-acc193686df4)
+* ![ordinateur-01](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
+* ![ordinateur-02](https://github.com/user-attachments/assets/48dc59c5-9027-409d-97c4-e2b860120eeb)
+* ![structure](https://github.com/user-attachments/assets/ddc18853-0d4d-454f-af0d-771704c8a3b2)
 * ![projection](https://github.com/user-attachments/assets/46979407-bc4a-4576-be79-92e1c6e9e297)
 
 ## Vidéo du la maquette en action
