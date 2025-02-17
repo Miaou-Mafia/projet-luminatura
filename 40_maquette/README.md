@@ -50,7 +50,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 1 ordinateur portable
 * 1 PC
 
-### Logiciel et Scripts
+### Logiciels et Scripts
 
 #### Arduino
 
@@ -58,7 +58,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * ![arduino_02](https://github.com/user-attachments/assets/98586416-2346-40d8-b4fd-1fb0981f1fac)
 * ![arduino_03](https://github.com/user-attachments/assets/436a39ad-e6e8-449e-bdde-35cd340b6578)
 
-Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche la plaque en acier. Les données captées sont transmises via le port 8001, utilisant une connexion réseau ethernet pour la communication. PureData reçoit ces informations et les utilise pour générer des interactions sonores et visuelles en temps réel.
+Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la capacité du corps à stocker une charge électrique. Cette valeur est limitée à un maximum de 1000 pour assurer une calibration cohérente. Une plaque en acier sert de capteur et détecte les variations de capacitance lorsque l’utilisateur la touche la plaque en acier. Les données captées sont transmises via le port 8001, utilisant une connexion réseau Ethernet pour la communication. PureData reçoit ces informations et les utilise pour générer des interactions sonores et visuelles en temps réel.
 
 #### Puredata
 
@@ -70,14 +70,14 @@ Le code PureData collecte les données brutes d'Arduino en fonction de la capaci
 
 ![plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
 
-Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher des sons et éteindre des sons à partir de l'OSCParse.
+Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher et éteindre des sons à partir de l'OSCParse.
 
 #### QLC+
 
 ![qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
 ![qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
-Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un channel différent.
+Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un channel différent sur le transmetteur.
 
 | Ampoules   | Channel    |
 | ---------- | ---------- |
@@ -120,10 +120,10 @@ Ordinateur 2 (Ordinateur portable):
 
 ## Fonctionnement
 ### Flux de données et d’interactions
-À la base de la maquette, Arduino aquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
+À la base de la maquette, Arduino acquiert les différentes valeurs de la capacitance et les transmet à Puredata. Dans Puredata, les données brutes de la capacitance ainsi qu'un booléen 1/0 permettant d'identifier le moment de l'interaction sont utilisés et modifiés. Ces deux données permettent d'affecter l'éclairage des fleurs, l'audio et les deux projections. Celles-ci sont ensuite acheminées à Reaper, Qlc+ et TouchDesigner par l'attribution de ports spécifiques.
 
 #### Reaper  
-Les données booléennes de PureData sont envoyées à Reaper, qui les utilise pour déclencher trois sons en fonction de l'interaction avec la plaque. Lorsque l’utilisateur pose sa main sur la plaque, un son magique est joué, suivi d’un son de ruissellement d’eau tant que le contact est maintenu.  Dès que la main est retirée, un son de grenouille se fait entendre, signalant la fin de l’interaction sonore.  
+Les données booléennes de PureData sont envoyées à Reaper, qui les utilise pour déclencher trois sons en fonction de l'interaction avec la plaque. Lorsque l’utilisateur pose sa main sur la plaque, un son magique est joué, suivi d’un son de ruissellement d’eau tant que le contact est maintenu. Dès que la main est retirée, un son de grenouille se fait entendre, signalant la fin de l’interaction sonore.  
 
 #### QLC+  
 En parallèle, ces mêmes données booléennes sont envoyées à QLC+ pour déclencher un chaser lumineux.  
@@ -146,9 +146,13 @@ graph TD;
     Donne1-0-->| Port: 10001 |QLC+;
     Donne1-0-->| Port: 10003 |Reaper;
     QLC+-->ActivationChaser[Activation du chaser rose par l'intensité lumineuse];
-    Reaper-->| Lors d'interraction |DéclenchementSonCourt1[Déclenchement du premier son court];
+    Reaper-->| Plaque active |DéclenchementSonCourt1[Déclenchement du premier son court];
     DéclenchementSonCourt1-->| Délai de 7 secondes |DéclenchementSonLong[Déclenchement du son long]
     Reaper-->| Plaque inactive |DéclenchementSonCourt2[Déclenchement du deuxième son court];
+    TouchDesignerSol-->| Plaque inactive |AtténuationVisuel[Atténuation du visuel];
+    TouchDesignerSol-->| Plaque active |IntensificationVisuel[Intensification du visuel];
+    TouchDesignerMur-->| Plaque inactive |AtténuationVisuel[Atténuation du visuel];
+    TouchDesignerMur-->| Plaque active |IntensificationVisuel[Intensification du visuel];
 ```
 
 ### Mode d'emploi des lumières
