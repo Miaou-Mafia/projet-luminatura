@@ -12,4 +12,4 @@ Les objets sonores interactifs sont conçus pour réagir à la capacitance des u
 8. **Ruisseau**  
 9. **Magie 02**
 
-[Assets audio de Luminatura](https://github.com/Miaou-Mafia/luminatura-audio/tree/main/exportations)
+* [Assets audio de Luminatura](https://github.com/Miaou-Mafia/luminatura-audio/tree/main/exportations)
