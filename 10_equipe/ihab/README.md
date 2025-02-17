@@ -4,8 +4,8 @@
 
  ## Réalisations
 
- <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 #### Semaine 1
+
 Création de la section asset dans github.
 
 ![semaine-01](https://github.com/user-attachments/assets/864cf537-79d0-4e54-a1cf-b92431ee3b47)
@@ -13,6 +13,7 @@ Création de la section asset dans github.
 #### Semaine 2
 
 Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec une maquette en aluminium.
+
 ![semaine-02](https://github.com/user-attachments/assets/95ca8ad6-a264-48b0-9f37-a7e60b750c52)
 
 #### Semaine 3
