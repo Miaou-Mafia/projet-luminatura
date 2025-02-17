@@ -24,6 +24,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 2 supports imprimés en 3D
   
 **Lié à l'audio**
+
 * 1 haut-parleur
 * 1 Cable DMX
 * 1 Carte de son
