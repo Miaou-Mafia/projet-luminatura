@@ -7,7 +7,7 @@ Les objets sonores interactifs sont conçus pour réagir à la capacitance des u
 3. **Magie**  
 4. **Tambour**  
 5. **Cloche**  
-6. **Croassement de grenouille**  
+6. **Coassement de grenouille**  
 7. **Crickets**  
 8. **Ruisseau**  
 9. **Magie 02**
