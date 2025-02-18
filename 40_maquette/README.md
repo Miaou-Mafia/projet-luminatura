@@ -160,7 +160,7 @@ graph TD;
 ```mermaid
 flowchart TD
     subgraph Plafond
-        A[Alimentation] --> B[Projecteur du sol 192.168.1.???]
+        A[Alimentation] --> B[Projecteur du sol 192.168.1.180]
         A --> C[Ampoule 1]
         A --> D[Ampoule 2]
         A --> E[Ampoule 3]
