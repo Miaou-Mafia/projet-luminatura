@@ -160,7 +160,7 @@ graph TD;
 ```mermaid
 flowchart TD
     subgraph Plafond
-        A[Alimentation] --> B[Projecteur du sol]
+        A[Alimentation] --> B[Projecteur du sol 192.168.1.???]
         A --> C[Ampoule 1]
         A --> D[Ampoule 2]
         A --> E[Ampoule 3]
@@ -168,7 +168,7 @@ flowchart TD
         F -->| Cable HDMI | B
         G[Ethernet Port 94] -->| Cable Ethernet | B
         H[Ethernet Port 93] -->| Cable Ethernet | F
-        A --> I[Projecteur du mur]
+        A --> I[Projecteur du mur 192.168.1.21]
         K[Ethernet Port 81] -->| Cable Ethernet | I
         L[Ethernet Port 80] -->| Cable Ethernet | M[HDMI Extender RX #15]
         M --> I
