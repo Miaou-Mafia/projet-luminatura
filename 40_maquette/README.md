@@ -69,7 +69,8 @@ Le code PureData collecte les données brutes d'Arduino en fonction de la capaci
 
 #### Reaper (plugdata)
 
-![code_plugdata_reaper](https://github.com/user-attachments/assets/498680ee-5013-4df6-a187-a7362f703eae)
+![code-plugdata-reaper](https://github.com/user-attachments/assets/11b8adae-cce2-4c94-9552-f15734bc7a1e)
+![delay-sans-delay-patch](https://github.com/user-attachments/assets/45a7c920-410d-42d8-8386-9edc060035f5)
 
 Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher et éteindre des sons à partir de l'OSCParse.
 
