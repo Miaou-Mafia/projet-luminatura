@@ -27,3 +27,5 @@ Correction du code Arduino/PlugData avec Thomas et Prethiah.
 Correction du code Arduino/PureData, configuration d'un des projecteurs et connexion des haut-parleurs avec le PC.
 
 ![semaine-04](https://github.com/user-attachments/assets/a8a437f2-7ffc-4a23-bb6e-2b543997f121)
+
+#### Semaine 5
