@@ -1,6 +1,6 @@
 # Budget
 
-### Budget Total : $
+### Budget Total : 467,51$
 
 ## 1. Matériel électronique
 
@@ -20,18 +20,20 @@
 | Description                             | Quantité | Prix unitaire | Coût total | Lien d'achat                                                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------- | -------- | ------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Tissu (Fleurs)                          | 3        | ?             | ?          |
-| Lanternes                               | 2        | 5,00 $        | 10,00 $    | Dollorama                                                                                                                                                                                                                                                                                                                                                    |
+| Lanternes                               | 2        | 13,86 $       | 41,60 $    | Dollorama                                                                                                                                                                                                                                                                                                                                                    |
 | 25-30 vignes artificielles en plastique | 1        | 14,99 $       | 14,99 $    | [Amazon](https://www.amazon.ca/dp/B08BZ8M5HP?ref=ppx_yo2ov_dt_b_fed_asin_title)                                                                                                                                                                                                                                                                              |
 | Plaque métallique                       | 3        | 23,85 $       | 71,55 $    | [Home Depot](https://www.homedepot.ca/produit/paulin-tole-d-acier-de-12-x-18-po-de-calibre-16/1000861863)                                                                                                                                                                                                                                                    |
 | Câble métallique en acier               | 1        | 33,72 $       | 33,72 $    | [Amazon](https://www.amazon.ca/dp/B0BMP2N5T3/)                                                                                                                                                                                                                                                                                                               |
 | Serre-câbles                            | 1        | 11,99 $       | 11,99 $    | [Amazon](https://www.amazon.ca/-/fr/serre-c%C3%A2bles-acier-inoxydable-double-ligne/dp/B0CRQVLH1C/133-9152500-1414250?pd_rd_w=VCPdV&content-id=amzn1.sym.9286c396-f989-473f-a51f-aeb6f0ce4e48&pf_rd_p=9286c396-f989-473f-a51f-aeb6f0ce4e48&pf_rd_r=JRSW9RHTB91PXM5FPA9Y&pd_rd_wg=qmryA&pd_rd_r=0d3b5f17-1bbc-47cc-b580-1cf5dfb7a227&pd_rd_i=B0CRQVLH1C&th=1) |
+| câbles métalliques en acier inoxydable  | 1        | 5,49 $        | 32,94 $    | [Rona](https://www.rona.ca/en/product/aluminum-wire-roll-154-m-18-gauge-3500243)                                                                                                                                                                                                                                                                             |
 
-#### Sous-total :  142,25 $
+
+#### Sous-total :  206,79 $
 
 ## 3. Divers et imprévus
 
-| Description              | Montant |
-| ------------------------ | ------- |
+| Description               | Montant |
+| ------------------------- | ------- |
 | Imprévus (10 % du budget) | 50,00 $ |
 
 #### Sous-total : 50,00 $
