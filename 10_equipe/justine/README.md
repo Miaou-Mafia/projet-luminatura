@@ -30,3 +30,6 @@ Accrochage du deuxième projecteur, configuration de la connexion entre TouchDes
 
 #### Semaine 5
 
+Finition de la projection du mur sur TouchDesigner, connexion entre TouchDesigner et Puredata des projections sol et mur, ajout des couleurs de toutes les ampoules et les mélanges.
+
+![semaine-05](https://github.com/user-attachments/assets/159307d8-dcf7-45e8-95ec-6630ae4627d2)
