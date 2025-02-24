@@ -32,3 +32,6 @@ Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la
 #### Semaine 5
 
 Limage des plaques métalliques, achat de méthyl hydrate pour les plaques métalliques, ajustement de la section budget sur Github, connexion des trois plaques métalliques finales avec Arduino et Pure Data, ajout de code sur Pure Data pour la connexion des données booléennes des trois plaques avec Reaper, ajout des résistances pour les deux Atom M5 Stack, branchement du troisième haut-parleur, assemblage du support et de la plaque 2, ajustement du code PlugData sur Reaper pour les plaques 2 et 3, ajustement de la sortie audio des haut-parleurs avec la carte son.
+
+![semaine-05](https://github.com/user-attachments/assets/52d526c3-2e36-4e60-88b3-5147cd06e8b0)
+
