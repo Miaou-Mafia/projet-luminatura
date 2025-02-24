@@ -4,7 +4,7 @@
 
 ***Luminatura*** s'inspire des lanternes captivantes de ***Forest of Resonating Lamps - One Stroke***, où chaque lumière interagit avec son environnement, créant une atmosphère magique. De plus, l'œuvre ***Pulse Room*** de Rafael Lozano-Hemmer enrichit notre concept en intégrant une dimension sonore réactive, renforçant ainsi l'expérience immersive de ***Luminatura***.
 
-![moodboard](https://github.com/user-attachments/assets/c2ecb26c-8f7b-4831-8f59-47e7b2c0bc8d)
+![moodboard](https://github.com/user-attachments/assets/1947c065-b796-4288-ae50-837fca1188d4)
 
 ### Planche d'ambiances sonores
 
