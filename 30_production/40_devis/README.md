@@ -5,11 +5,10 @@
 
 ### Équipements fournis par les artistes
 
-- 25-30 vignes artificielles en plastique
+- 10-15 vignes artificielles en plastique
 - 6 ampoules LED
 - 3 plaques en acier
 - 2 lanternes
-- 6 fleurs
 - 6 extensions pour lumière (câbles)
 - 1 tissu (3m) de couleur jaune
 - 1 tissu (3m) de couleur rose
@@ -27,18 +26,19 @@
 
 #### Support en métal
 
-| Support en métal pour la plaque métallique | Composants               |
+| Support en métal pour les plaques métallique | Composants               |
 | ------------------------------------------ | ------------------------ |
-| Vis et boulons                             | Assemblage et durabilité |
-| 2 supports imprimés en 3D                  | Assemblage et durabilité |
+| Vis                                        | Assemblage et durabilité |
+| 6 supports imprimés en 3D                  | Assemblage et durabilité |
 
 ### Équipements fournis par le cégep
 
 - Câbles (HDMI, Ethernet, audio)
 - 1 PC
+- 1 ordinateur portable
 - 3 haut-parleurs GENELEC 8030C
-- Le support (support des haut-parleurs)
-- 2 supports imprimés en 3D
+- 3 support (support des haut-parleurs)
+- 6 supports imprimés en 3D
 - 1 câble DMX
 - 1 carte de son
 - 1 microcontrôleur Atom M5
@@ -59,7 +59,7 @@
 
 | Logiciel | Technique                                 |
 | -------- | ----------------------------------------- |
-| QLC+     | Création des scènes lumineuses           |
+| QLC+     | Création des scènes lumineuses            |
 | Puredata | Envoi de données des différents logiciels |
 
 ### Mise en réseau et communication

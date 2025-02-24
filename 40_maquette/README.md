@@ -18,7 +18,7 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 1 minicontrôleur Atom M5
 * 3 résisteurs
 * 1 Cable Ethernet
-* Ruban adhésif métalique
+* 1 Ruban adhésif métalique
 * 1 Cable en acier
 * 1 trépied
 * 2 supports imprimés en 3D
@@ -30,7 +30,6 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 1 Carte de son
 
 **Suspension et structure centrale**
-* 5 vignes 
 * 2 lanternes
 * 3 fleurs (tissus blanc et jaune ainsi que des fils métalliques)
 * Câble métallique en acier inoxydable

@@ -22,7 +22,7 @@ Les systèmes d'affichage et de sonorisation sont utilisés pour diffuser les m�
 
 ### Vidéo
 Utilisés pour diffuser des vidéos interactives, des images animées, ou des informations.
-* Projecteurs haute résolution
+* 2 Projecteurs haute résolution
 
 ### Audio
 Utilisés pour diffuser du son, de la musique, ou des vibrations.
