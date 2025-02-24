@@ -30,6 +30,6 @@ Correction du code Arduino/PureData, configuration d'un des projecteurs et conne
 
 #### Semaine 5
 
-Connexion de tous les haut-parleurs à la carte de son, travailler sur la 4e fleur et la correction des bogues dans Puredata.
+Connexion de tous les haut-parleurs à la carte de son, travailler sur la 4e fleur et la correction des bogues dans Puredata avec Prethiah.
 
-![semaine-05]()
+![semaine-05](https://github.com/user-attachments/assets/8d9d121a-1edb-4b3a-b01c-e49380fa4ad3)
