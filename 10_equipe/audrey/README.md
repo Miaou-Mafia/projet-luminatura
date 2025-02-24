@@ -32,3 +32,7 @@ Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la
 #### Semaine 5
 
 Ajustement du patch de la premiere plaque dans Reaper, ajout des patch pour la 2e et 3e plaque dans Reaper, création des scènes et des chaser pour les couleurs bleu et jaune dans QLC+ et connexion avec Puredata, liaison du microcontrôleur et de la plaque 2 et 3 par un fil de cuivre, ajustement de la sortie audio pour qu'elle sorte dans les trois hauts-parleurs, modification du fonctionnement dans Reaper pour que les sons de chaque plaque sortent par leur propre haut-parleur, ajout d'issues dans github et captation de quelques vidéos pour le "making-of".
+![semaine-05](https://github.com/user-attachments/assets/fc28713d-1fa3-4ae8-9854-a6f71b81a0a6)
+![semaine-05.2](https://github.com/user-attachments/assets/034a706e-b7da-4f0e-b42d-28585b8b0d7b)
+
+
