@@ -29,3 +29,5 @@ Correction du code Arduino/PureData, configuration d'un des projecteurs et conne
 ![semaine-04](https://github.com/user-attachments/assets/a8a437f2-7ffc-4a23-bb6e-2b543997f121)
 
 #### Semaine 5
+
+Connexion de tous les haut-parleurs à la carte de son, travailler sur la 4e fleur et la correction des bogues dans Puredata.
