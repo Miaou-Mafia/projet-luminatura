@@ -18,7 +18,7 @@ Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec u
 
 #### Semaine 3
 
-Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour fluidifier l'ouverture et la fermeture des lumières, ajustement du GitHub, bricolage des fleurs, achat des plaques en acier et test de celles-ci avec Plugdata. Accrochage de la première lanterne et décoration des supports métalliques, création d'un compte YouTube pour Miaou Mafia.
+Correction du code Arduino/Plugdata avec Thomas et Ihab, ajout de code pour fluidifier l'ouverture et la fermeture des lumières, ajustement du GitHub, bricolage des fleurs, achat des plaques métalliques et test de celles-ci avec Plugdata. Accrochage de la première lanterne et décoration des supports métalliques, création d'un compte YouTube pour Miaou Mafia.
 
 ![semaine-03](https://github.com/user-attachments/assets/7e82b91a-4469-4391-acd8-5181992d07c3)
 
@@ -31,4 +31,4 @@ Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la
 
 #### Semaine 5
 
-Limage des plaques en acier, achat de méthyl hydrate pour les plaques en acier, ajustement de la section budget sur Github, connexion des trois plaques en acier avec Arduino et Pure Data, ajout de code sur Pure Data pour la connexion des données booléennes des trois plaques avec Reaper, ajout des résistances pour les deux Atom M5 Stack, branchement du troisième haut-parleur, assemblage du support pour la plaque 2, ajustement du code PlugData sur Reaper pour les plaques 2 et 3, ajustement de la sortie audio des haut-parleurs avec la carte son.
+Limage des plaques métalliques, achat de méthyl hydrate pour les plaques métalliques, ajustement de la section budget sur Github, connexion des trois plaques métalliques finales avec Arduino et Pure Data, ajout de code sur Pure Data pour la connexion des données booléennes des trois plaques avec Reaper, ajout des résistances pour les deux Atom M5 Stack, branchement du troisième haut-parleur, assemblage du support et de la plaque 2, ajustement du code PlugData sur Reaper pour les plaques 2 et 3, ajustement de la sortie audio des haut-parleurs avec la carte son.
