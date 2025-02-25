@@ -200,8 +200,7 @@ flowchart TD
         N[Alimentation] --> O
         O[HDMI Extender TX #31] -->| Cable HDMI | P[Ordinateur 192.168.1.178]
         Q[Ethernet Port 247] -->| Cable Ethernet | O
-        N --> R[Speaker plaque 1]
-        R -->| Cable XLR | S[XLR port 168]
+        T[Speaker plaque 1]-->| Cable XLR | S[XLR port 168]
         N --> R[Speaker plaque 2]
         R -->| Cable XLR | S[XLR port 166]
         N --> R[Speaker plaque 3]
