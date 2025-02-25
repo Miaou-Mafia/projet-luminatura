@@ -199,9 +199,9 @@ flowchart TD
         N[Alimentation] --> O
         O[ plaque 1 speaker] -->| cable XLR | P[port 168]
         N --> R[Plaque 2 speaker]
-        R -->| Cable XLR | S[port 166]
+        R -->| Cable XLR | S[port 166] 
         N --> T
-        T[Plaque speaker 3] -->| cable XLR | U[ port 165]
+        T[Plaque speaker 3] -->| cable XLR | U[ port 165] --> G[ port 147]
         N --> V
         V[TP Link] --> | Ethernet Port 219 | Atom
         Atom --> | Tape d'aluminum | X[Plaque en acier]
