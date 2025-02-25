@@ -19,6 +19,22 @@
 
 ### Synoptique
 
+```mermaid
+flowchart TD
+    subgraph Câblage pour l'audio
+        N[Alimentation] --> O
+        O[ plaque 1 speaker] -->| cable XLR | P[port 168] -->| cable XLR | H[ port 145]
+        N --> R[Plaque 2 speaker]
+        R -->| Cable XLR | S[port 166] -->| cable XLR | I[ port 146]
+        N --> T
+        T[Plaque speaker 3] -->| cable XLR | U[ port 165] -->| cable XLR | G[ port 147]
+        G -->| cable XLR | F
+        I -->| cable XLR | F
+        H -->| cable XLR | F
+        F[Carte de son] --> W[Ordinateur 192.168.1.150]
+    end
+```
+
 ### Mode d'emploi des lumières
 
 ## Logiciels et Scripts
