@@ -199,6 +199,7 @@ flowchart TD
     subgraph Sol
         N[Alimentation] --> O
         O[HDMI Extender TX #31] -->| Cable HDMI | P[Ordinateur 192.168.1.178]
+        T[Speaker plaque 1] --> U[XLR port 168]
         Q[Ethernet Port 247] -->| Cable Ethernet | O
         T[Speaker plaque 1]-->| Cable XLR | S[XLR port 168]
         N --> R[Speaker plaque 2]
