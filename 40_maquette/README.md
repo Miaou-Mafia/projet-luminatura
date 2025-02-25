@@ -197,17 +197,16 @@ flowchart TD
 flowchart TD
     subgraph Sol audio
         N[Alimentation] --> O
-        O[ plaque 1 speaker] -->| cable XLR | P[port 168] --> H[ port 145]
+        O[ plaque 1 speaker] -->| cable XLR | P[port 168] -->| cable XLR | H[ port 145]
         N --> R[Plaque 2 speaker]
-        R -->| Cable XLR | S[port 166] --> I[ port 146]
+        R -->| Cable XLR | S[port 166] -->| cable XLR | I[ port 146]
         N --> T
-        T[Plaque speaker 3] -->| cable XLR | U[ port 165] --> G[ port 147]
+        T[Plaque speaker 3] -->| cable XLR | U[ port 165] -->| cable XLR | G[ port 147]
         N --> V
-        V[TP Link] --> | Ethernet Port 219 | Atom
-        Atom --> | Tape d'aluminum | X[Plaque en acier]
-        Y[ Ethernet Port 253] --> Atom
-        V --> | Ethernet Port 218 | Ethernet
-        V --> | Cable Ethernet | W[Ordinateur 192.168.1.150]
+        G --> F
+        I --> F
+        H --> F
+        F[Carte de son] --> W[Ordinateur 192.168.1.150]
     end
 ```
 
