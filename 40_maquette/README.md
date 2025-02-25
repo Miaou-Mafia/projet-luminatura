@@ -194,6 +194,29 @@ flowchart TD
     end
 ```
 
+```mermaid
+flowchart TD
+    subgraph Sol
+        N[Alimentation] --> O
+        O[HDMI Extender TX #31] -->| Cable HDMI | P[Ordinateur 192.168.1.178]
+        Q[Ethernet Port 247] -->| Cable Ethernet | O
+        N --> R[Speaker plaque 1]
+        R -->| Cable XLR | S[XLR port 168]
+        N --> R[Speaker plaque 2]
+        R -->| Cable XLR | S[XLR port 166]
+        N --> R[Speaker plaque 3]
+        R -->| Cable XLR | S[XLR port 165]
+        N --> T
+        T[Carte de son] --> U[Ordinateur 192.168.1.150]
+        N --> V
+        V[TP Link] --> | Ethernet Port 219 | Atom
+        Atom --> | Tape d'aluminum | X[Plaque en acier]
+        Y[ Ethernet Port 253] --> Atom
+        V --> | Ethernet Port 218 | Ethernet
+        V --> | Cable Ethernet | W[Ordinateur 192.168.1.140]
+    end
+```
+
 ### Mode d'emploi des lumières
 #### Association des lumières
 *Associer les lumières une à la fois
