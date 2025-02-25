@@ -198,16 +198,16 @@ flowchart TD
     subgraph Sol
         N[Alimentation] --> O
         O[ plaque 1 speaker] -->| cable XLR | P[port 168]
-        N --> R[Speaker]
-        R -->| Cable XLR | S[Adaptateur Audio]
+        N --> R[Plaque 2 speaker]
+        R -->| Cable XLR | S[port 166]
         N --> T
-        T[Carte de son] --> U[Ordinateur 192.168.1.150]
+        T[Plaque speaker 3] --> U[ port 165]
         N --> V
         V[TP Link] --> | Ethernet Port 219 | Atom
         Atom --> | Tape d'aluminum | X[Plaque en acier]
         Y[ Ethernet Port 253] --> Atom
         V --> | Ethernet Port 218 | Ethernet
-        V --> | Cable Ethernet | W[Ordinateur 192.168.1.140]
+        V --> | Cable Ethernet | W[Ordinateur 192.168.1.150]
     end
 ```
 
