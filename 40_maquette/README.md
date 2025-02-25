@@ -195,11 +195,11 @@ flowchart TD
 ```
 ```mermaid
 flowchart TD
-    subgraph Sol
+    subgraph Sol audio
         N[Alimentation] --> O
-        O[ plaque 1 speaker] -->| cable XLR | P[port 168]
+        O[ plaque 1 speaker] -->| cable XLR | P[port 168] --> H[ port 145]
         N --> R[Plaque 2 speaker]
-        R -->| Cable XLR | S[port 166] 
+        R -->| Cable XLR | S[port 166] --> I[ port 146]
         N --> T
         T[Plaque speaker 3] -->| cable XLR | U[ port 165] --> G[ port 147]
         N --> V
