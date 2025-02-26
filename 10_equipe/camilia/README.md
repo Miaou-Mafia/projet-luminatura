@@ -18,14 +18,16 @@ Bricolage des fleurs et achat de tissus pour les fleurs (jaunes, roses, blanches
 
 #### Semaine 3
 
-Bricolage des fleurs et accrochage d'un projecteur ainsi que de la structure principale.
+Bricolage des fleurs et debut des modèle 3D. Accrochage du projecteur au sol ainsi que de la structure principale.
 
 ![semaine-03](https://github.com/user-attachments/assets/8c0aa51d-2c25-4308-8b64-2d8547acc6a2)
 
 #### Semaine 4
 
-Correction du problème du projecteur au sol, fabrication des fleurs, fixation des fleurs et assemblage du support et de la plaque.
+Changement du projecteur au sol et correction du problème de projection, fabrication des fleurs, fixation de 2 fleurs et assemblage du support et de la plaque.
 
 ![semaine-04](https://github.com/user-attachments/assets/6e869397-8b74-4c06-bb40-99989d19cef3)
 
 #### Semaine 5
+Changement des cables ethernet des atomes et cables XLR des haut-parleur vers la matrice a l'ordinateur principale avec pure data. Fixation d'une fleur et assemblage des 2 autres support et de la plaque.
+
