@@ -12,13 +12,13 @@ Clarification du concept en utilisant trois plaques au lieu d'une seule et avanc
 
 #### Semaine 2
 
-Bricolage des fleurs et achat de tissus pour les fleurs (jaunes, roses, blanches).
+Bricolage des fleurs et achat de tissus pour les fleurs (jaunes, roses, blanches) et montage du vidéo d'intension.
 
 ![semaine-02](https://github.com/user-attachments/assets/dc5ce70e-aa91-4f8d-8115-8903647d61c0)
 
 #### Semaine 3
 
-Bricolage des fleurs et debut des modèle 3D. Accrochage du projecteur au sol ainsi que de la structure principale.
+Bricolage des fleurs et debut des modèle 3D. Accrochage du projecteur au sol ainsi que de la structure principale et ajustement du montage vidéo d'intension.
 
 ![semaine-03](https://github.com/user-attachments/assets/8c0aa51d-2c25-4308-8b64-2d8547acc6a2)
 
@@ -29,7 +29,9 @@ Changement du projecteur au sol et correction du problème de projection, fabric
 ![semaine-04](https://github.com/user-attachments/assets/6e869397-8b74-4c06-bb40-99989d19cef3)
 
 #### Semaine 5
+
 Changement des cables ethernet des atomes et cables XLR des haut-parleur vers la matrice a l'ordinateur principale avec pure data. Fixation d'une fleur et assemblage des 2 autres support et de la plaque.
 
 ![ semaine-05 ](https://github.com/user-attachments/assets/68c490a2-0aa3-423b-8a46-9d91db2b32e8)
 
+#### Semaine 6

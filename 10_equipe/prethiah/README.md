@@ -35,3 +35,5 @@ Limage des plaques en acier, achat de méthyl hydrate pour les plaques en acier,
 
 ![semaine-05](https://github.com/user-attachments/assets/52d526c3-2e36-4e60-88b3-5147cd06e8b0)
 
+#### Semaine 6
+
