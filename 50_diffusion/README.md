@@ -35,17 +35,17 @@ flowchart TD
     end
 ```
 
-```mermaid
 flowchart TD
-    subgraph Câblage pour les Chauvet eve e-100z
-        N[Alimentation] --> O
-        O[ plaque 1 Chauvet] -->| cable XLR | P[port 64]
+    subgraph Câblage_pour_les_Chauvet_eve_e100z
+        N[Alimentation] --> O[Plaque 1 Chauvet]
+        O -->|câble XLR| P[Port 64]
         N --> R[Plaque 2 Chauvet]
-        R -->| Cable XLR | O -->| cable XLR |
-        T[Plaque 3 Chauvet] -->| cable XLR | O -->|
-        P -->| cable XLR | F [Ordinateur 192.168.1.150]
+        R -->|câble XLR| O
+        O -->|câble XLR| T[Plaque 3 Chauvet]
+        T -->|câble XLR| P
+        P -->|câble XLR| F[Ordinateur 192.168.1.150]
     end
-```
+
 
 ### Mode d'emploi des lumières
 **Association des lumières**
