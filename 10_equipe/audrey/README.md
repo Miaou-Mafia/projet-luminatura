@@ -40,6 +40,10 @@ Ajustement du patch de la premiere plaque dans Reaper, ajout des patch pour la 2
 Ajout des nouveaux sons dans le vst TX16wx et plugdata, égalisation des sons dans plugdata, création des scènes et des chasers pour les couleurs vertes, mauves, rouges et pour le climax dans QLC+, création du code dans puredata pour envoyer des données pour vert, rouge, mauve et climax en désactivant les données non-voulues, liaison de qlc+ et de puredata pour ces nouvelles couleurs, organisation du fillage des hauts-parleurs et des micro-controleurs, création de pétales de fleur, documentation vidéo tout au long de la semaine et documentation de la section difusion dans github.
 
 ![semaine-06](https://github.com/user-attachments/assets/5e538837-fd1d-4f75-ba75-6f9993bf559b)
+![semaine-06.2](https://github.com/user-attachments/assets/e1751336-dac9-48d6-90ac-130d052cd429)
+![semaine-06.3](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)
+
+
 
 
 
