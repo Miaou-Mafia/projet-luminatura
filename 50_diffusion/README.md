@@ -62,6 +62,25 @@ flowchart TD
 ```
 #### Reaper
 
+Effets sonores pour la plaque 1
+* Magie
+* Ruisseau
+* Sons aléatoire
+  * Grenouille
+  * Cloche
+  * 
+
+Effets sonores pour la plaque 2
+* Tambour
+* Méditation
+* Sons aléatoire 
+
+Effets sonores pour la plaque 3
+* Magie 02
+* Oiseaux
+* Sons aléatoire
+    * Grenouille
+
 #### Plug Data
 
 ### Lumières
