@@ -66,22 +66,62 @@ Effets sonores pour la plaque 1
 * Magie
 * Ruisseau
 * Sons aléatoire
-  * Grenouille
+  * Grenouille-01
   * Cloche
-  * 
+  * Hibou
 
 Effets sonores pour la plaque 2
 * Tambour
 * Méditation
-* Sons aléatoire 
+* Sons aléatoire
+  * Vent
+  * Feuilles
+  * Grenouille-01
 
 Effets sonores pour la plaque 3
 * Magie 02
 * Oiseaux
 * Sons aléatoire
-    * Grenouille
+    * Grenouille-01
+    * Libellule
+    * Grenouille-02
 
 #### Plug Data
+
+Plaque 1
+| Sons     | Note midi |
+| -------- | --------- |
+| Magie | 60  |
+| Ruisseau | 62  |
+| Grenouille-01 | 64  |
+| Cloche | 65   |
+| Hibou | 67  |
+
+Plaque 2
+| Sons     | Note midi |
+| -------- | --------- |
+| Tambour | 60  |
+| Méditation | 62  |
+| Grenouille-01 | 64  |
+| Feuilles | 65   |
+| Vent | 67  |
+
+Plaque 3
+| Sons     | Note midi |
+| -------- | --------- |
+| Magie-02 | 60  |
+| Oiseaux | 62  |
+| Grenouille-02 | 64  |
+| Libellule | 65   |
+| Grenouille-01 | 67  |
+
+Gouttes d'eau pour les 3 plaques
+| Sons     | Note midi |
+| -------- | --------- |
+| Goutte-03 | 72  |
+| Goutte-04 | 74  |
+| Goutte-05 | 76  |
+| Goutte-06 | 77   |
 
 ### Lumières
 
