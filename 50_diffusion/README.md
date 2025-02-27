@@ -134,4 +134,25 @@ Virtual Console
 
 #### Pure Data
 
-#### 
+```mermaid
+graph TD;  
+
+    Plaque_01 -->| Reaper| alpha;
+    Plaque_01 -->| Reaper| beta;
+    Plaque_01 -->| Touch designer | omega1;
+    Plaque_01 -->| Touch Designer | qlc1;
+```
+```mermaid
+graph TD;  
+    Plaque_02 -->| Reaper| alpha;
+    Plaque_02 -->| Reaper| beta;
+    Plaque_02 -->| Touch designer | omega2;
+    Plaque_02 -->| Touch Designer | qlc2;
+```
+```mermaid
+graph TD;  
+    Plaque_03 -->| Reaper | alpha;
+    Plaque_03 -->| Reaper| beta;
+    Plaque_03 -->| Touch designer | omega3;
+    Plaque_03 -->| Touch designer | qlc3;
+```
