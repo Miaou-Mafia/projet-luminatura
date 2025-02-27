@@ -91,10 +91,10 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 
 #### QLC+
 
-| Lumières   | Universe   |
-| ---------- | -------- |
-| Ampoule DMX 512 RGB | Universe 1 |
-| Lumière generic dimer | Universe 2 |
+| Universe   | Lumières   |  USB DMX  |
+| ---------- | -------- | ------- |
+| Universe 1 | Ampoule DMX 512 RGB |   ...   |
+| Universe 2 | Lumière generic dimer |    ...   |
 
 Universe 1
 | Lumière   | Adresse   |
