@@ -12,6 +12,31 @@
 
 ## Manuel d'instruction pour opération
 
+### Gestion des logiciels sur deux ordinateurs
+
+Ordinateur 1 (PC):
+* QLC+
+* Reaper
+* Touch Designer (Projection au mur)
+
+Ordinateur 2 (Ordinateur portable):
+* Arduino
+* Puredata
+* Touch Designer (Projection au sol)
+
+### Les différents ports utilisés
+| Port  | Fonction                                        |
+| ----- | ----------------------------------------------- |
+| 8001  | Atom M5 Stack 1                                 |
+| 8002  | Atom M5 Stack 2                                 |
+| 8003  | Atom M5 Stack 3                                 |
+| 10001 | Qlc+                                            |
+| 10002 | TouchDesigner - projection sur le sol           |
+| 10003 | Reaper incluant le premier patch sur Plugdata   |
+| 10004 | TouchDesigner - projection sur le mur           |
+| 10005 | Reaper incluant le deuxième patch sur Plugdata  |
+| 10007 | Reaper incluant le troisième patch sur Plugdata |
+
 ### Audio 
 
 | Haut-parleurs     | Carte de son (sortie) |
@@ -41,19 +66,6 @@ flowchart TD
 
 ### Lumières
 
-#### QLC+
-
-### Visuel
-
-#### TouchDesigner
-
-### Interactivité
-
-#### Arduino
-
-#### Pure Data
-
-
 **Association des lumières**
 
 *Associer les lumières une à la fois
@@ -77,30 +89,14 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 | Ampoule 05 | Canal 05 |
 | Ampoule 06 | Canal 06 |
 
-## Logiciels et Scripts
+#### QLC+
 
-## Gestion des données et des logiciels
+### Visuel
 
-### Gestion des logiciels sur deux ordinateurs
-Ordinateur 1 (PC):
-* QLC+
-* Reaper
-* Projection au mur
+#### TouchDesigner
 
-Ordinateur 2 (Ordinateur portable):
-* Arduino
-* Puredata
-* Projection au sol
+### Interactivité
 
-### Les différents ports utilisés
-| Port  | Fonction                                        |
-| ----- | ----------------------------------------------- |
-| 8001  | Atom M5 Stack 1                                 |
-| 8002  | Atom M5 Stack 2                                 |
-| 8003  | Atom M5 Stack 3                                 |
-| 10001 | Qlc+                                            |
-| 10002 | TouchDesigner - projection sur le sol           |
-| 10003 | Reaper incluant le premier patch sur Plugdata   |
-| 10004 | TouchDesigner - projection sur le mur           |
-| 10005 | Reaper incluant le deuxième patch sur Plugdata  |
-| 10007 | Reaper incluant le troisième patch sur Plugdata |
+#### Arduino
+
+#### Pure Data
