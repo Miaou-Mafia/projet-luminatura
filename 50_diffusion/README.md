@@ -89,6 +89,7 @@ Effets sonores pour la plaque 3
 #### Plug Data
 
 Plaque 1
+
 | Sons     | Note midi |
 | -------- | --------- |
 | Magie | 60  |
@@ -98,6 +99,7 @@ Plaque 1
 | Hibou | 67  |
 
 Plaque 2
+
 | Sons     | Note midi |
 | -------- | --------- |
 | Tambour | 60  |
@@ -107,6 +109,7 @@ Plaque 2
 | Vent | 67  |
 
 Plaque 3
+
 | Sons     | Note midi |
 | -------- | --------- |
 | Magie-02 | 60  |
@@ -116,6 +119,7 @@ Plaque 3
 | Grenouille-01 | 67  |
 
 Gouttes d'eau pour les 3 plaques
+
 | Sons     | Note midi |
 | -------- | --------- |
 | Goutte-03 | 72  |
@@ -156,6 +160,7 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 | Universe 2 | Lumière generic dimer | ...     |
 
 Universe 1
+
 | Lumière        | Adresse    |
 | -------------- | ---------- |
 | Generic RGBW 1 | 001 - 005  |
@@ -166,6 +171,7 @@ Universe 1
 | Generic RGBW 6 | 026 - 030  |
 
 Universe 2
+
 | Lumière   | Adresse |
 | --------- | ------- |
 | Dimmers 1 | 001     |
@@ -173,6 +179,7 @@ Universe 2
 | Dimmers 3 | 003     |
 
 Virtual Console
+
 | Slider | Input channel |
 | ------ | ------------- |
 | Rose   | 1957          |
