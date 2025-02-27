@@ -50,7 +50,7 @@ flowchart TD
     end
 
 
-### Mode d'emploi des lumières
+### Lumières
 **Association des lumières**
 
 *Associer les lumières une à la fois
@@ -64,6 +64,15 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 **Disassociation des lumières**
 
 Éteindre les lumières et les rallumer. Dans les 5 prochaines secondes, appuyer 5 fois sur le bouton set du transmetteur. Les lumières devraient clignoter 10 fois en rouge pour démontrer leur dissociation du transmetteur.
+
+| Ampoules   | Canal    |
+| ---------- | -------- |
+| Ampoule 01 | Canal 01 |
+| Ampoule 02 | Canal 02 |
+| Ampoule 03 | Canal 03 |
+| Ampoule 04 | Canal 04 |
+| Ampoule 05 | Canal 05 |
+| Ampoule 06 | Canal 06 |
 
 ## Logiciels et Scripts
 
