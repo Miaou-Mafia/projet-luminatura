@@ -90,11 +90,14 @@ Ordinateur 2 (Ordinateur portable):
 * Projection au sol
 
 ### Les différents ports utilisés
-| Port  | Fonction                              |
-| ----- | ------------------------------------- |
-| 10001 | Qlc+                                  |
-| 10002 | TouchDesigner - projection sur le sol |
+| Port  | Fonction                                        |
+| ----- | ----------------------------------------------- |
+| 8001  | Atom M5 Stack 1                                 |
+| 8002  | Atom M5 Stack 2                                 |
+| 8003  | Atom M5 Stack 3                                 |
+| 10001 | Qlc+                                            |
+| 10002 | TouchDesigner - projection sur le sol           |
 | 10003 | Reaper incluant le premier patch sur Plugdata   |
-| 10004 | TouchDesigner - projection sur le mur |
-| 10005 | Reaper incluant le deuxième patch sur Plugdata   |
-| 10007 | Reaper incluant le troisième patch sur Plugdata   |
+| 10004 | TouchDesigner - projection sur le mur           |
+| 10005 | Reaper incluant le deuxième patch sur Plugdata  |
+| 10007 | Reaper incluant le troisième patch sur Plugdata |
