@@ -79,6 +79,15 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 ## Gestion des données et des logiciels
 
 ### Gestion des logiciels sur deux ordinateurs
+Ordinateur 1 (PC):
+* QLC+
+* Reaper
+* Projection au mur
+
+Ordinateur 2 (Ordinateur portable):
+* Arduino
+* Puredata
+* Projection au sol
 
 ### Les différents ports utilisés
 | Port  | Fonction                              |
