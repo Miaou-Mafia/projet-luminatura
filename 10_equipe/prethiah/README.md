@@ -74,3 +74,6 @@
 * Réorganisation du code PureData et ajout des commentaires
 * Ajustement du GitHub section budget et correction du budget du fichier exel
 * Trouver la solution du problème de la capacitance du microcontôleur 2 (Atom M5 Stack)
+  
+![semaine-06](https://github.com/user-attachments/assets/4a40e29e-93d5-4c3a-86e1-5eec1eaca6b7)
+
