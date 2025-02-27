@@ -69,6 +69,8 @@
 * Assemblage du support pour la plaque 3
 * L'organisation des fils des haut-parleurs Genelec
 * Bricolage des pétales de la fleur 5
-* Configuration des niveaux de sons avec Reaper
-* Code Puredata pour activer le chaser dans Qlc+ (mélanges de couleurs)
-* Ajustement du GitHub section budget
+* Configuration des niveaux de sons avec Plugdata (égalisation)
+* Code Puredata pour activer le chaser (vert, rouge, mauve et climax) dans Qlc+ (mélanges de couleurs)
+* Réorganisation du code PureData et ajout des commentaires
+* Ajustement du GitHub section budget et correction du budget du fichier exel
+* Trouver la solution du problème de la capacitance du microcontôleur 2 (Atom M5 Stack)
