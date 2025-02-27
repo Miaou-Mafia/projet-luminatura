@@ -1,5 +1,4 @@
 # Diffusion
-## Description
 
 ## Gallerie d'images
 * ![Image 1](https://placehold.co/400x400?text=1+image)
@@ -7,7 +6,11 @@
 * ![Image 3](https://placehold.co/400x400?text=3+image)
 * ![Image 4](https://placehold.co/400x400?text=4+image)
 
-## Fonctionnement
+## Vidéo
+
+## Documentation vidéo de l'installation en action
+
+## Manuel d'instruction pour opération
 
 ### Flux de données et d’interactions
 
