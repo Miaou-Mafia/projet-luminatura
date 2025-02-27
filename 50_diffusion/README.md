@@ -12,15 +12,13 @@
 
 ## Manuel d'instruction pour opération
 
-### Flux de données et d’interactions
+### Audio 
 
-#### Reaper
-
-#### QLC+
-
-#### TouchDesigner
-
-### Synoptique
+| Haut-parleurs     | Carte de son (sortie) |
+| ----------------- | --------------------- |
+| Genelec Plaque 01 | 05                    |
+| Genelec Plaque 02 | 06                    |
+| Genelec Plaque 03 | 03                    |
 
 ```mermaid
 flowchart TD
@@ -37,9 +35,25 @@ flowchart TD
         F[Carte de son] --> W[Ordinateur 192.168.1.150]
     end
 ```
+#### Reaper
 
+#### Plug Data
 
 ### Lumières
+
+#### QLC+
+
+### Visuel
+
+#### TouchDesigner
+
+### Interactivité
+
+#### Arduino
+
+#### Pure Data
+
+
 **Association des lumières**
 
 *Associer les lumières une à la fois
