@@ -3,7 +3,8 @@
 ```mermaid
 graph TD;  
   %% Composants     
-  Ordinateur["Contrôle central - Ordinateur"]     
+  Ordinateur["Contrôle principal - Ordinateur 1"] 
+  Ordinateur-Portable["Contrôle secondaire - Ordinateur 2"]  
   DMX["USB DMX"]     
   Lumieres["Lumières"]     
   Ampoule["Ampoules"]     
@@ -12,11 +13,13 @@ graph TD;
   SortieAudio["Sortie audio"]      
   PlaqueMetalique["Plaques métalliques"]     
   Arduino["Arduino M5 Stack"]     
-  Projecteur["Projecteur"]   
+  Projecteur1["Projecteur 1"]   
+  Projecteur2["Projecteur 2"]   
   
   %% Emplacements     
   subgraph Caché_des_utilisateurs         
     Ordinateur     
+    Ordinateur-Portable
   end     
   subgraph Plafond         
     DMX         
@@ -26,24 +29,28 @@ graph TD;
   subgraph Grand_Studio         
     PlaqueMetalique         
     Arduino     
-    Projecteur  
+    Projecteur1  
+    Projecteur2  
     CarteSon
     HautParleur
     SortieAudio
   end     
   
   %% Connexions     
-  Ordinateur -->|USB| DMX     
+  Ordinateur --> DMX     
   Ordinateur --> CarteSon     
   Ordinateur -.-> PlaqueMetalique     
+  Ordinateur-Portable --> PlaqueMetalique
   PlaqueMetalique --> Arduino     
   Arduino -->|Contrôle Lumière| Lumieres     
   Arduino -->|Contrôle Son| CarteSon     
-  Arduino -->|Contrôle Visuel| Projecteur 
+  Arduino -->|Contrôle Visuel| Projecteur1 
+  Arduino -->|Contrôle Visuel| Projecteur2
   DMX -->|Câble DMX| Lumieres     
   Lumieres -->|Câble électrique| Ampoule     
   CarteSon -->|Câble audio| HautParleur     
   HautParleur -->|Câble audio| SortieAudio  
-  Projecteur -->|Câble Vidéo| Ordinateur
+  Projecteur1 -->|Câble Vidéo| Ordinateur
+  Projecteur2 -->|Câble Vidéo| Ordinateur-Portable
 
 ```
