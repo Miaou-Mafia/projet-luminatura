@@ -30,7 +30,7 @@ Changement du projecteur au sol et correction du problème de projection, fabric
 
 #### Semaine 5
 
-Changement des cables ethernet des atomes et cables XLR des haut-parleur vers la matrice a l'ordinateur principale avec pure data. Fixation d'une fleur et assemblage des 2 autres support et de la plaque.
+Changement des câbles Ethernet des Atom et des câbles XLR des haut-parleurs vers la matrice reliée à l'ordinateur principal avec Pure Data. Fixation d'une fleur et assemblage des deux autres supports ainsi que de la plaque.
 
 ![ semaine-05 ](https://github.com/user-attachments/assets/68c490a2-0aa3-423b-8a46-9d91db2b32e8)
 

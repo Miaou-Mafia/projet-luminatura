@@ -30,7 +30,7 @@ Accrochage du deuxième projecteur, configuration de la connexion entre TouchDes
 
 #### Semaine 5
 
-Ajout de la synoptique de la maquette, finition de la projection du mur sur TouchDesigner, connexion entre TouchDesigner et Puredata des projections sol et mur, ajout des couleurs de toutes les ampoules et ses mélanges.
+Ajout de la synoptique de la maquette, finition de la projection du mur sur TouchDesigner, connexion entre TouchDesigner et PureData pour les projections du sol et du mur, ajout des couleurs de toutes les ampoules et de leurs mélanges.
 
 ![semaine-05](https://github.com/user-attachments/assets/159307d8-dcf7-45e8-95ec-6630ae4627d2)
 
