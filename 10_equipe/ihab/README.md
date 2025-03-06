@@ -38,7 +38,8 @@ Connexion de tous les haut-parleurs à la carte de son et Reaper, travail sur la
 
 Création des nouveaux sons utilisés dans l'ambiance, organisation des câbles, changement des paramètres des 3 haut-parleurs, création de petals des fleurs manquantes et la correction des bogues dans PureData avec Prethiah.
 
-![semaine-06-01](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)
+![semaine-06-01](https://github.com/user-attachments/assets/09ef0fae-799b-49a7-8048-80f18610f922)
+
 ![semaine-06-02](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)
 
 
