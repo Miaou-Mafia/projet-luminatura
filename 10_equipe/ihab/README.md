@@ -18,13 +18,13 @@ Création d'un code fonctionnel sur Arduino pour détecter la capacitance avec u
 
 #### Semaine 3
 
-Correction du code Arduino/PlugData avec Thomas et Prethiah.
+Correction du code Arduino/PlugData avec Thomas et Prethiah et création de petals des fleurs.
 
 ![semaine-03](https://github.com/user-attachments/assets/68b9bbaf-dd6e-472d-89ac-8d654de2790a)
 
 #### Semaine 4
 
-Correction du code Arduino/PureData, configuration d'un des projecteurs et connexion des haut-parleurs avec le PC.
+Correction du code Arduino/PureData, configuration d'un des projecteurs et connexion des haut-parleurs avec le PC et travail sur les petals des fleurs.
 
 ![semaine-04](https://github.com/user-attachments/assets/a8a437f2-7ffc-4a23-bb6e-2b543997f121)
 
