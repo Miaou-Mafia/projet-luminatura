@@ -24,6 +24,27 @@ Ordinateur 2 (Ordinateur portable):
 * Puredata
 * Touch Designer (Projection au sol)
 
+```mermaid
+graph TD;
+    Plaque-->Minicontroleur;
+    Minicontroleur-->Arduino;
+    Arduino-->Puredata;
+    Puredata-->DonneeBrute[Données brutes];
+    Puredata-->Donne1-0[Données booléenne 1-0];
+    DonneeBrute-->| Port: 10002 |TouchDesignerSol;
+    DonneeBrute-->| Port: 10004 |TouchDesignerMur;
+    Donne1-0-->| Port: 10001 |QLC+;
+    Donne1-0-->| Port: 10003 |Reaper;
+    QLC+-->ActivationChaser[Activation du chaser rose par l'intensité lumineuse];
+    Reaper-->| Plaque active |DéclenchementSonCourt1[Déclenchement du premier son court];
+    DéclenchementSonCourt1-->| Délai de 7 secondes |DéclenchementSonLong[Déclenchement du son long]
+    Reaper-->| Plaque inactive |DéclenchementSonCourt2[Déclenchement du deuxième son court];
+    TouchDesignerSol-->| Plaque inactive |AtténuationVisuel[Atténuation du visuel];
+    TouchDesignerSol-->| Plaque active |IntensificationVisuel[Intensification du visuel];
+    TouchDesignerMur-->| Plaque inactive |AtténuationVisuel[Atténuation du visuel];
+    TouchDesignerMur-->| Plaque active |IntensificationVisuel[Intensification du visuel];
+```
+
 ### Les différents ports utilisés
 | Port  | Fonction                                        |
 | ----- | ----------------------------------------------- |
@@ -191,6 +212,43 @@ Virtual Console
 | Climax | 45760         |
 
 ### Visuel
+
+```mermaid
+flowchart TD
+    subgraph Plafond
+        A[Alimentation] --> B[Projecteur du sol 192.168.1.180]
+        A --> C[Ampoule 1]
+        A --> D[Ampoule 2]
+        A --> E[Ampoule 3]
+        A --> F[HDMI Extender RX #31]
+        F -->| Cable HDMI | B
+        G[Ethernet Port 94] -->| Cable Ethernet | B
+        H[Ethernet Port 93] -->| Cable Ethernet | F
+        A --> I[Projecteur du mur 192.168.1.21]
+        K[Ethernet Port 81] -->| Cable Ethernet | I
+        L[Ethernet Port 80] -->| Cable Ethernet | M[HDMI Extender RX #15]
+        M --> I
+        A --> M
+    end
+```
+```mermaid
+flowchart TD
+    subgraph Sol
+        N[Alimentation] --> O
+        O[HDMI Extender TX #31] -->| Cable HDMI | P[Ordinateur 192.168.1.178]
+        Q[Ethernet Port 247] -->| Cable Ethernet | O
+        N --> R[Speaker]
+        R -->| Cable XLR | S[Adaptateur Audio]
+        N --> T
+        T[Carte de son] --> U[Ordinateur 192.168.1.150]
+        N --> V
+        V[TP Link] --> | Ethernet Port 219 | Atom
+        Atom --> | Tape d'aluminum | X[Plaque en acier]
+        Y[ Ethernet Port 253] --> Atom
+        V --> | Ethernet Port 218 | Ethernet
+        V --> | Cable Ethernet | W[Ordinateur 192.168.1.140]
+    end
+```
 
 #### TouchDesigner
 
