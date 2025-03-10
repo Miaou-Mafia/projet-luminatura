@@ -36,7 +36,7 @@ Changement des câbles Ethernet des Atom et des câbles XLR des haut-parleurs ve
 
 #### Semaine 6
 
-Assemblage et accrochages des dernières fleurs et changement des visse des structure. De plus, présentation de l'oeuvres pour les premières années. 
+Assemblage et accrochages des dernières fleurs et changement des visse des structure. Instalation des 3 spot light. De plus, présentation de l'oeuvres pour les premières années. 
 
 
 ![semaine-06](https://github.com/user-attachments/assets/a9496ca6-f4c9-40d3-89f0-14a7131a2a2a)
