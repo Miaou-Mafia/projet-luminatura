@@ -35,3 +35,8 @@ Changement des câbles Ethernet des Atom et des câbles XLR des haut-parleurs ve
 ![ semaine-05 ](https://github.com/user-attachments/assets/68c490a2-0aa3-423b-8a46-9d91db2b32e8)
 
 #### Semaine 6
+
+Assemblage et accrochages des dernières fleurs et changement des visse des structure. De plus, présentation de l'oeuvres pour les premières années. 
+![semaine-06](https://github.com/user-attachments/assets/a9496ca6-f4c9-40d3-89f0-14a7131a2a2a)
+![semaine-061](https://github.com/user-attachments/assets/f99920fe-52e8-4f07-9e29-fdcc3b01e033)
+
