@@ -1,10 +1,10 @@
 # Diffusion
 
 ## Gallerie d'images
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
+* ![climax](https://github.com/user-attachments/assets/15a62f43-b031-4e52-bd20-b2a87d78c4c8)
+* ![climax-fleurs](https://github.com/user-attachments/assets/9294947a-dfa7-43bb-aa4e-0283fe3ff945)
+* ![fleurs](https://github.com/user-attachments/assets/debb7d36-c866-4e78-b5aa-e3828d15a054)
+* ![fleurs](https://github.com/user-attachments/assets/759b4c71-a123-4be9-a605-b9077b823c2f)
 
 ## Vidéo
 
