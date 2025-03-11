@@ -1,4 +1,4 @@
-# Luminatura - Installation Interactive
+# Luminatura
 
 ## Pitch
 
