@@ -239,6 +239,9 @@ Virtual Console
 | Mauve  | 15909         |
 | Rouge  | 49812         |
 | Climax | 45760         |
+| Light 1 | 48632       |
+| Light 2  | 36717       |
+| Light 3 | 40678        |
 
 ### Visuel
 
