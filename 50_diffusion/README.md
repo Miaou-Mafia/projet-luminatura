@@ -107,6 +107,35 @@ Effets sonores pour la plaque 3
     * Libellule
     * Grenouille-02
 
+#### Configuration de base de Reaper
+![reaper-configuration](https://github.com/user-attachments/assets/80f0c5c9-ae88-4906-af13-48b35c6f176d)
+![reaper-preference-audio](https://github.com/user-attachments/assets/2ab5222d-3481-4ff8-b7e8-89830931cd9d)
+
+#### Ambiance 
+![ambiance-route](https://github.com/user-attachments/assets/e8c4265e-c8be-4f7b-8650-8ca624110938)
+![ambiance-route-fx](https://github.com/user-attachments/assets/45d0068b-ae44-4a5b-a136-bc7fb26a67a6)
+
+#### Ambiance Stéreo
+![ambiance-route](https://github.com/user-attachments/assets/cccc0c93-1158-4209-9622-c0e584b44363)
+![ambiance-fx](https://github.com/user-attachments/assets/47ec3c3f-fef5-4511-a040-b31eff86264c)
+
+#### Plaque 1
+![plaque-01](https://github.com/user-attachments/assets/6701c1ea-6215-4f23-a1f8-b06cb6102540)
+
+#### Plaque 2
+![plaque-02](https://github.com/user-attachments/assets/58c4664b-9f09-4b66-bdac-abbfaf259a3e)
+
+#### Plaque 3
+![plaque-03](https://github.com/user-attachments/assets/090340df-f336-4132-acf6-9aa93d4efbbb)
+
+#### Compression 
+![bus-compresseur](https://github.com/user-attachments/assets/d81f4b41-8700-4813-8728-8307eb4c3970)
+
+#### Master
+![master-route](https://github.com/user-attachments/assets/9d82261e-3d2e-4373-a4be-2a5e41ac3f93)
+![master-fx](https://github.com/user-attachments/assets/1bea3d62-1ef9-4e70-a273-0d391dc1e446)
+
+
 #### Plug Data
 
 Plaque 1
