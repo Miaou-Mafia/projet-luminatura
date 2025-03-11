@@ -62,5 +62,5 @@ graph TD;
 ### Schéma spécifique
 
 ![interaction](https://github.com/user-attachments/assets/16b16359-0591-4317-9736-2bd2137674e7)
-![interaction-lumière](https://github.com/user-attachments/assets/6766bfb9-424e-42d2-aaf0-65afb1b8ee91)
+![interaction-lumière](https://github.com/user-attachments/assets/f52bcbbb-1cdb-4149-90bb-91b40a3e1fb0)
 
