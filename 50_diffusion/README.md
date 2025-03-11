@@ -258,6 +258,14 @@ Virtual Console
 ### Visuel
 
 #### Câblage des projections
+![cable-01](https://github.com/user-attachments/assets/7fcb55c2-e76b-4ce1-8695-3b5d89a4dd4f)
+![cable-02](https://github.com/user-attachments/assets/d37ef38d-fccf-4624-9946-1a74f2750046)
+![cable-03](https://github.com/user-attachments/assets/2fa6806d-27e9-476f-b003-168e08abbf41)
+![cable-04](https://github.com/user-attachments/assets/2aa57611-7299-45b1-8a8d-909bb80f4b5b)
+![cable-05](https://github.com/user-attachments/assets/50c1d5c5-97e4-4a0b-a524-e1c7e152a79b)
+![cable-06](https://github.com/user-attachments/assets/88e2eb11-c6f1-4c22-b0a9-f3f30238ffc3)
+![cable-07](https://github.com/user-attachments/assets/5fb9b882-5602-46ef-a645-7a1251d811cb)
+![cable-08](https://github.com/user-attachments/assets/0e24b962-1b99-4c92-a913-2cc3ea66616d)
 
 ```mermaid
 flowchart TD
