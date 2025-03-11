@@ -1,10 +1,15 @@
 # Diffusion
 
 ## Gallerie d'images
-* ![climax](https://github.com/user-attachments/assets/15a62f43-b031-4e52-bd20-b2a87d78c4c8)
-* ![climax-fleurs](https://github.com/user-attachments/assets/9294947a-dfa7-43bb-aa4e-0283fe3ff945)
-* ![fleurs](https://github.com/user-attachments/assets/debb7d36-c866-4e78-b5aa-e3828d15a054)
-* ![fleurs](https://github.com/user-attachments/assets/759b4c71-a123-4be9-a605-b9077b823c2f)
+* ![Base](https://github.com/user-attachments/assets/306fa42f-b9b6-4596-8120-fabcc7c78eef)
+* ![plaque-01](https://github.com/user-attachments/assets/9bce0a48-83cb-40df-86f6-1ac358bd8311)
+* ![plaque-02](https://github.com/user-attachments/assets/ce9d6fa1-c6c3-4f0b-b6cb-2bc4536e9d16)
+* ![plaque-03](https://github.com/user-attachments/assets/3c2421e2-7da4-4272-a792-2fe263778f39)
+* ![plaques-01-03](https://github.com/user-attachments/assets/29f1d428-2cfd-4421-8487-ebd94aecb473)
+* ![plaques-02-03](https://github.com/user-attachments/assets/65b8cebd-30ef-47da-816a-c687abae156e)
+* ![plaques-01-02](https://github.com/user-attachments/assets/6041456b-24b0-420a-b762-fe2dfe2dbfc1)
+* ![plaques-01-02-03](https://github.com/user-attachments/assets/195386a9-fa41-4988-9b5d-e6a0a3d046fa)
+* ![support-plaques](https://github.com/user-attachments/assets/e5e5e17f-3baa-46a1-bcaf-bcc17b8d78df)
 
 ## Vidéo
 
