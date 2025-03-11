@@ -22,27 +22,28 @@ Bricolage des fleurs, achat des matériaux d'accrochage, création des scènes s
 
 ![semaine-03](https://github.com/user-attachments/assets/cb36fa53-a55d-4778-9f5d-21d1128a90c9)
 
-#### Semaine 4
+### Semaine 4  
 
-Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la plaque, liaison du microcontrôleur et de la plaque par un fil de cuivre, connexion de Pure Data avec Reaper, ajout d'informations sur la page maquette du GitHub, accrochage des fleurs et assemblage de la 2e fleur.
+Configuration de Reaper (Plugdata) pour les sons, assemblage du support et de la plaque, liaison du microcontrôleur et de la plaque avec un fil de cuivre, connexion de Pure Data avec Reaper, ajout d'informations sur la page maquette du GitHub, accrochage des fleurs et assemblage de la deuxième fleur.  
 
-![semaine-04](https://github.com/user-attachments/assets/10a03411-cfc7-4522-be77-07f1f3928492)
-![semaine-04.2](https://github.com/user-attachments/assets/700cbc6e-d66f-4c7d-b959-2c0923b32cdd)
+![Semaine 4](https://github.com/user-attachments/assets/10a03411-cfc7-4522-be77-07f1f3928492)  
+![Semaine 4.2](https://github.com/user-attachments/assets/700cbc6e-d66f-4c7d-b959-2c0923b32cdd)  
 
-#### Semaine 5
+### Semaine 5  
 
-Ajustement du patch de la premiere plaque dans Reaper, ajout des patch pour la 2e et 3e plaque dans Reaper, création des scènes et des chasers pour les couleurs bleu et jaune dans QLC+ et connexion avec Puredata, liaison du microcontrôleur et de la plaque 2 et 3 par un fil de cuivre, ajustement de la sortie audio pour qu'elle sorte dans les trois hauts-parleurs, modification du fonctionnement dans Reaper pour que les sons de chaque plaque sortent par leur propre haut-parleur, ajout d'issues dans github, captation de quelques vidéos pour le "making-of" et création des sons des gouttes d'eau.
+Ajustement du patch de la première plaque dans Reaper, ajout des patches pour la deuxième et la troisième plaque dans Reaper, création des scènes et chasers pour les couleurs bleu et jaune dans QLC+ et connexion avec Pure Data, liaison du microcontrôleur et des plaques 2 et 3 avec un fil de cuivre, ajustement de la sortie audio pour qu'elle se répartisse dans les trois haut-parleurs, modification du fonctionnement dans Reaper pour que les sons de chaque plaque sortent par leur propre haut-parleur, ajout d'issues dans GitHub, captation de quelques vidéos pour le making-of et création des sons des gouttes d'eau.  
 
-![semaine-05](https://github.com/user-attachments/assets/fc28713d-1fa3-4ae8-9854-a6f71b81a0a6)
-![semaine-05.2](https://github.com/user-attachments/assets/034a706e-b7da-4f0e-b42d-28585b8b0d7b)
+![Semaine 5](https://github.com/user-attachments/assets/fc28713d-1fa3-4ae8-9854-a6f71b81a0a6)  
+![Semaine 5.2](https://github.com/user-attachments/assets/034a706e-b7da-4f0e-b42d-28585b8b0d7b)  
 
-#### Semaine 6
+### Semaine 6  
 
-Ajout des nouveaux sons dans le vst TX16wx et plugdata, égalisation des sons dans plugdata, création des scènes et des chasers pour les couleurs vertes, mauves, rouges et pour le climax dans QLC+, création du code dans puredata pour envoyer des données pour vert, rouge, mauve et climax en désactivant les données non-voulues, liaison de qlc+ et de puredata pour ces nouvelles couleurs, organisation du fillage des hauts-parleurs et des micro-controleurs, création de pétales de fleur, documentation vidéo tout au long de la semaine et documentation de la section difusion dans github.
+Ajout des nouveaux sons dans le VST TX16Wx et Plugdata, égalisation des sons dans Plugdata, création des scènes et chasers pour les couleurs verte, mauve, rouge et pour le climax dans QLC+, création du code dans Pure Data pour envoyer des données pour vert, rouge, mauve et climax en désactivant les données non voulues, liaison de QLC+ et de Pure Data pour ces nouvelles couleurs, organisation du câblage des haut-parleurs et des microcontrôleurs, création de pétales de fleur, documentation vidéo tout au long de la semaine et documentation de la section diffusion dans GitHub.  
 
-![semaine-06](https://github.com/user-attachments/assets/5e538837-fd1d-4f75-ba75-6f9993bf559b)
-![semaine-06.2](https://github.com/user-attachments/assets/e1751336-dac9-48d6-90ac-130d052cd429)
-![semaine-06.3](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)
+![Semaine 6](https://github.com/user-attachments/assets/5e538837-fd1d-4f75-ba75-6f9993bf559b)  
+![Semaine 6.2](https://github.com/user-attachments/assets/e1751336-dac9-48d6-90ac-130d052cd429)  
+![Semaine 6.3](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)  
+
 
 
 
