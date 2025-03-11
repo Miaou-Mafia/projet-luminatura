@@ -206,8 +206,8 @@ Pour une seconde lumière, éteindre la première lumière déjà associée et c
 
 | Universe   | Lumières              | USB DMX |
 | ---------- | --------------------- | ------- |
-| Universe 1 | Ampoule DMX 512 RGB   | ...     |
-| Universe 2 | Lumière generic dimer | ...     |
+| Universe 1 | Ampoule DMX 512 RGB   |  DMX Output 1 - (S/N 6A009218)    |
+| Universe 2 | Lumière generic dimer | DMX Output 1 - (S/N 6A009219)  |
 
 Universe 1
 
