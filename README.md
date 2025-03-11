@@ -12,5 +12,10 @@ Luminatura est une installation immersive alliant art et technologie, où des fl
 
 ## Gallerie photo
 
+* ![climax](https://github.com/user-attachments/assets/17cf1a24-e007-466d-b529-8978157b3823)
+* ![climax](https://github.com/user-attachments/assets/e61ce57b-a5ea-458e-8a04-f5a17f44908e)
+* ![fleurs](https://github.com/user-attachments/assets/243a0097-5cd0-45e5-ace3-7aa7fc697e34)
+
+
 
 
