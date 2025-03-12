@@ -1,7 +1,7 @@
 # Diffusion
 
 ## Gallerie d'images
-* ![Base](https://github.com/user-attachments/assets/306fa42f-b9b6-4596-8120-fabcc7c78eef)
+* ![base](https://github.com/user-attachments/assets/306fa42f-b9b6-4596-8120-fabcc7c78eef)
 * ![plaque-01](https://github.com/user-attachments/assets/9bce0a48-83cb-40df-86f6-1ac358bd8311)
 * ![plaque-02](https://github.com/user-attachments/assets/ce9d6fa1-c6c3-4f0b-b6cb-2bc4536e9d16)
 * ![plaque-03](https://github.com/user-attachments/assets/3c2421e2-7da4-4272-a792-2fe263778f39)
@@ -11,7 +11,9 @@
 * ![plaques-01-02-03](https://github.com/user-attachments/assets/195386a9-fa41-4988-9b5d-e6a0a3d046fa)
 * ![support-plaques](https://github.com/user-attachments/assets/e5e5e17f-3baa-46a1-bcaf-bcc17b8d78df)
 
-## Vidéo
+## Making-of
+
+## Bande d'annonce
 
 ## Documentation vidéo de l'installation en action
 
