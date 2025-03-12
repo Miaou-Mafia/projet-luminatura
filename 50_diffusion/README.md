@@ -33,13 +33,13 @@ Ordinateur 2 (Ordinateur portable):
   
 ### Salle des matrice (caché des utilisateurs)
 
-![ordinateur-02](https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c)
-![ordinateur-01](https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495)
-![power-bar](https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d)
-![transmitter](https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447)
-![derriere-ordinateur](https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819)
-![carte-de-son](https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37)
-![fils-matrice-01](https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7)
+* ![ordinateur-02](https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c)
+* ![ordinateur-01](https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495)
+* ![power-bar](https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d)
+* ![transmitter](https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447)
+* ![derriere-ordinateur](https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819)
+* ![carte-de-son](https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37)
+* ![fils-matrice-01](https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7)
 
 ```mermaid
 graph TD;
