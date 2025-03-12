@@ -20,11 +20,13 @@ Pour **Luminatura**, les choix d'ambiances sonores se concentrent sur l'harmonie
 
 #### Projection sur les murs
 
-![moodboard-projo-murs](https://github.com/user-attachments/assets/c3379952-0bc1-471d-bf9e-450a4b4d08e5)
+![moodboard-projo-murs](https://github.com/user-attachments/assets/e9691fc0-78d9-4496-a769-897f1c1b80f1)
+
 
 #### Projection sur le sol
 
-![moodboard-projo-sol](https://github.com/user-attachments/assets/79a2c2f3-2464-4e66-b24d-9d48ce38e66a)
+![moodboard-projo-sol](https://github.com/user-attachments/assets/b337bfcc-e51e-4c31-a248-c32ca9ea3e4f)
+
 
 ### L'esthétique et le design
 
