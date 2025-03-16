@@ -1,7 +1,7 @@
 # Diffusion
 
 ## Gallerie d'images
-* ![base](https://github.com/user-attachments/assets/306fa42f-b9b6-4596-8120-fabcc7c78eef)
+* ![aucune-interaction](https://github.com/user-attachments/assets/306fa42f-b9b6-4596-8120-fabcc7c78eef)
 * ![plaque-01](https://github.com/user-attachments/assets/9bce0a48-83cb-40df-86f6-1ac358bd8311)
 * ![plaque-02](https://github.com/user-attachments/assets/ce9d6fa1-c6c3-4f0b-b6cb-2bc4536e9d16)
 * ![plaque-03](https://github.com/user-attachments/assets/3c2421e2-7da4-4272-a792-2fe263778f39)
@@ -11,9 +11,9 @@
 * ![plaques-01-02-03](https://github.com/user-attachments/assets/195386a9-fa41-4988-9b5d-e6a0a3d046fa)
 * ![support-plaques](https://github.com/user-attachments/assets/e5e5e17f-3baa-46a1-bcaf-bcc17b8d78df)
 
-## Making-of
+<!-- ## Making-of -->
 
-## Bande d'annonce
+<!-- ## Bande-annonce -->
 
 ## Documentation vidéo de l'installation en action
 
@@ -31,13 +31,12 @@ Ordinateur 2 (Ordinateur portable):
 * Puredata
 * Touch Designer (Projection au sol)
   
-### Salle des matrice (caché des utilisateurs)
-
+## Salle des matrice (caché des utilisateurs)
 * ![ordinateur-02](https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c)
 * ![ordinateur-01](https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495)
 * ![power-bar](https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d)
 * ![transmitter](https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447)
-* ![derriere-ordinateur](https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819)
+* ![derrière-ordinateur](https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819)
 * ![carte-de-son](https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37)
 * ![fils-matrice-01](https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7)
 
