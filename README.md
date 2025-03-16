@@ -12,11 +12,15 @@ Luminatura est une installation immersive alliant art et technologie, où des fl
 
 ## Gallerie photo
 
-* ![climax](https://github.com/user-attachments/assets/17cf1a24-e007-466d-b529-8978157b3823)
-* ![climax](https://github.com/user-attachments/assets/e61ce57b-a5ea-458e-8a04-f5a17f44908e)
-* ![fleurs](https://github.com/user-attachments/assets/243a0097-5cd0-45e5-ace3-7aa7fc697e34)
-* ![fleurs](https://github.com/user-attachments/assets/00827e8d-60b1-4022-bc5a-c24d3f61d378)
-![Image (23)](https://github.com/user-attachments/assets/4108480e-9f8a-4c6b-8832-34868bfdefd6)
+* ![plaque](https://github.com/user-attachments/assets/62f027cf-6e70-4b67-ae67-3018ea011d71)
+* ![plaque_01](https://github.com/user-attachments/assets/dfe778a3-c84e-4ea5-a6f4-d594e4b90af6)
+* ![support](https://github.com/user-attachments/assets/cb75d7d5-3a9a-4152-86ad-d07a3197a7ff)
+* ![ordinateur_01](https://github.com/user-attachments/assets/7516ee77-bdca-49d4-8ab3-8375a490665b)
+* ![ordinateur_02](https://github.com/user-attachments/assets/0b09c854-46ff-40fd-b184-261d9ca66335)
+* ![structure_base](https://github.com/user-attachments/assets/dc4a95c4-583d-454c-aac3-53559fe59865)
+* ![projection](https://github.com/user-attachments/assets/46979407-bc4a-4576-be79-92e1c6e9e297)
+
+
 
 
 
