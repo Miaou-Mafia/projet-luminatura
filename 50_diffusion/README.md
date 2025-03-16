@@ -32,13 +32,15 @@ Ordinateur 2 (Ordinateur portable):
 * Touch Designer (Projection au sol)
   
 ## Salle des matrice (caché des utilisateurs)
-* ![ordinateur-02](https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c)
-* ![ordinateur-01](https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495)
-* ![power-bar](https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d)
-* ![transmitter](https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447)
-* ![derrière-ordinateur](https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819)
-* ![carte-de-son](https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37)
-* ![fils-matrice-01](https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7)
+
+* <img src="https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c" width="400" height="400">
+* <img src="https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495" width="400" height="400">
+* <img src="https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d" width="400" height="400">
+* <img src="https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447" width="400" height="400">
+* <img src="https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819" width="400" height="400">
+* <img src="https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37" width="400" height="400">
+* <img src="https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7" width="400" height="400">
+
 
 ```mermaid
 graph TD;
@@ -316,36 +318,40 @@ flowchart TD
 ```
 #### TouchDesigner
 
-Effets visuels pour toutes les plaques
-* Projection du mur
-    * Deux des 6 particles GPU passent de 10 particules à 500 quand une des plaques est touchée.
-    * Le gamma devient de plus en plus fort quand les surfaces des mains augmentent
-    * Toutes les particles GPU passent au mauve quand la plaque 1 et la plaque 2 sont activées
-    * Toutes les particles GPU passent au vert quand la plaque 2 et la plaque 3 sont activées
-    * Toutes les particles GPU passent au rouge quand la plaque 1 et la plaque 3 sont activées
-    * Toutes les particles GPU changent de couleur (mauve, vert, rouge, rose, bleu, jaune) en interval quand toutes les plaques sont activées
-    * Quand toutes les plaques sont activées, le vent du particles GPU se mets en mouvement grâce à des LFOs
+## Effets visuels pour toutes les plaques
 
-Effets visuels pour la plaque 1
-* Projection du sol
-    * Le particles GPU passe d'une force qui se focus au centre à une force qui se focus vers la plaque 1 (centre)
-      
-* Projection du mur
-    * Toutes les particles GPU passent au rose quand la plaque 1 est activée
+### Projection du mur
+- Deux des 6 particules GPU passent de 10 particules à 500 quand l'une des plaques est touchée.
+- Le gamma devient de plus en plus fort quand la surface des mains augmente.
+- Toutes les particules GPU passent au mauve quand la plaque 1 et la plaque 2 sont activées.
+- Toutes les particules GPU passent au vert quand la plaque 2 et la plaque 3 sont activées.
+- Toutes les particules GPU passent au rouge quand la plaque 1 et la plaque 3 sont activées.
+- Toutes les particules GPU changent de couleur (mauve, vert, rouge, rose, bleu, jaune) par intervalle quand toutes les plaques sont activées.
+- Quand toutes les plaques sont activées, le vent des particules GPU se met en mouvement grâce à des LFOs.
 
-Effets visuels pour la plaque 2
-* Projection du sol
-    * Le particles GPU passe d'une force qui se focus au centre à une force qui se focus vers la plaque 2 (gauche)
-      
-* Projection du mur
-    * Toutes les particles GPU passent au bleu quand la plaque 2 est activée
+# Effets visuels pour la plaque 1
 
-Effets visuels pour la plaque 3
-* Projection du sol
-    * Le particles GPU passe d'une force qui se focus au centre à une force qui se focus vers la plaque 3 (droite)
+## Projection du sol
+- Les particules GPU passent d'une force qui se concentre au centre à une force qui se concentre vers la plaque 1 (centre).
 
-* Projection du mur
-    * Toutes les particles GPU passent au jaune quand la plaque 3 est activée
+## Projection du mur
+- Toutes les particules GPU passent au rose quand la plaque 1 est activée.
+
+# Effets visuels pour la plaque 2
+
+## Projection du sol
+- Les particules GPU passent d'une force qui se concentre au centre à une force qui se concentre vers la plaque 2 (gauche).
+
+## Projection du mur
+- Toutes les particules GPU passent au bleu quand la plaque 2 est activée.
+
+# Effets visuels pour la plaque 3
+
+## Projection du sol
+- Les particules GPU passent d'une force qui se concentre au centre à une force qui se concentre vers la plaque 3 (droite).
+
+## Projection du mur
+- Toutes les particules GPU passent au jaune quand la plaque 3 est activée.
 
 ### Interactivité
 
