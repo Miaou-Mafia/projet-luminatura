@@ -24,22 +24,22 @@
 Ordinateur 1 (PC):
 * QLC+
 * Reaper avec Plugdata
-* Touch Designer (Projection au mur)
+* TouchDesigner (Projection au mur)
 
 Ordinateur 2 (Ordinateur portable):
 * Arduino
-* Puredata
+* Pure Data
 * Touch Designer (Projection au sol)
   
 ## Salle des matrice (caché des utilisateurs)
 
-* <img src="https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c" width="400" height="400">
-* <img src="https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495" width="400" height="400">
-* <img src="https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d" width="400" height="400">
-* <img src="https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447" width="400" height="400">
-* <img src="https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819" width="400" height="400">
-* <img src="https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37" width="400" height="400">
-* <img src="https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/2f296e52-1c35-4567-95b5-e5c6ea34a18c" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/15218715-8b0d-4126-994e-1c94d3b51495" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/79d05f63-8f49-4007-8c4b-2457cd7f434d" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/503f4bb1-4e80-4a42-a90e-9143ae625447" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/72ee30ba-3589-4563-8c48-b725dce71819" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/5f55a309-024c-4d32-916e-9d68ca214d37" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/5e6cebc1-6b58-4f26-86ed-9d3bcf7911a7" width="400" height="400">
 
 
 ```mermaid
@@ -69,20 +69,23 @@ graph TD;
 | 8001  | Atom M5 Stack 1                                 |
 | 8002  | Atom M5 Stack 2                                 |
 | 8003  | Atom M5 Stack 3                                 |
-| 10001 | Qlc+                                            |
-| 10002 | TouchDesigner - projection sur le sol           |
-| 10003 | Reaper incluant le premier patch sur Plugdata   |
+| 10001 | QLC+                                            |
+| 10002 | TouchDesigner - projection au sol               |
+| 10003 | Reaper avec le premier patch sur Plugdata       |
 | 10004 | TouchDesigner - projection sur le mur           |
-| 10005 | Reaper incluant le deuxième patch sur Plugdata  |
-| 10007 | Reaper incluant le troisième patch sur Plugdata |
+| 10005 | Reaper avec le deuxième patch sur Plugdata      |
+| 10007 | Reaper avec le troisième patch sur Plugdata     |
+| 10008 | Reaper avec les données des plaques 01 (climax) sur Plugdata     |
+| 10009 | Reaper avec les données des plaques 02 (climax)  sur Plugdata     |
+| 10010 | Reaper avec les données des plaques 03 (climax) le troisième patch sur Plugdata     |
 
 ### Audio 
 
-| Haut-parleurs     | Carte de son (sortie) |
-| ----------------- | --------------------- |
-| Genelec plaque 01 | 05                    |
-| Genelec plaque 02 | 06                    |
-| Genelec plaque 03 | 03                    |
+| Haut-parleurs      | Carte de son (sortie) |
+| ------------------ | --------------------- |
+| Genelec plaque 01  | 05                    |
+| Genelec plaque 02  | 06                    |
+| Genelec plaque 03  | 03                    |
 
 ```mermaid
 flowchart TD
@@ -206,32 +209,37 @@ Gouttes d'eau pour les 3 plaques
 
 **Association des lumières**
 
-*Associer les lumières une à la fois
+## Associer les lumières une à une
 
-*Un channel par lumière
+- Un canal par lumière.
 
-Choisir un channel spécifique et allumer la lumière. Dans les 10 prochaines secondes, cliquer trois fois sur le bouton set du transmetteur. La lumière devrait clignoter 3 fois en vert pour démontrer son association.
+1. Choisir un canal spécifique et allumer la lumière. Dans les 10 secondes suivantes, cliquer trois fois sur le bouton "set" du transmetteur. La lumière devrait clignoter trois fois en vert pour indiquer son association.
 
-Pour une seconde lumière, éteindre la première lumière déjà associée et changer de channel sur le transmetteur. Maintenant, allumer la deuxième lumière et refaire le même processus que fait précédemment sur la première lumière.
+2. Pour associer une deuxième lumière :
+   - Éteindre la première lumière déjà associée.
+   - Changer de canal sur le transmetteur.
+   - Allumer la deuxième lumière et répéter le même processus que pour la première lumière.
 
-**Disassociation des lumières**
+## Dissociation des lumières
 
-Éteindre les lumières et les rallumer. Dans les 5 prochaines secondes, appuyer 5 fois sur le bouton set du transmetteur. Les lumières devraient clignoter 10 fois en rouge pour démontrer leur dissociation du transmetteur.
+1. Éteindre les lumières et les rallumer.
+2. Dans les 5 secondes suivantes, appuyer cinq fois sur le bouton "set" du transmetteur. Les lumières devraient clignoter dix fois en rouge pour indiquer leur dissociation du transmetteur.
 
-| Ampoules   | Canal    |
-| ---------- | -------- |
-| Ampoule 01 | Canal 01 |
-| Ampoule 02 | Canal 02 |
-| Ampoule 03 | Canal 03 |
-| Ampoule 04 | Canal 04 |
-| Ampoule 05 | Canal 05 |
-| Ampoule 06 | Canal 06 |
+
+| Ampoules    | Canaux   |
+| ----------- | -------- |
+| Ampoule 01  | Canal 01 |
+| Ampoule 02  | Canal 02 |
+| Ampoule 03  | Canal 03 |
+| Ampoule 04  | Canal 04 |
+| Ampoule 05  | Canal 05 |
+| Ampoule 06  | Canal 06 |
 
 #### QLC+
 
 | Universe   | Lumières              | USB DMX |
 | ---------- | --------------------- | ------- |
-| Universe 1 | Ampoule DMX 512 RGB   |  DMX Output 1 - (S/N 6A009218)    |
+| Universe 1 | Ampoule DMX 512 RGB   | DMX Output 1 - (S/N 6A009218)    |
 | Universe 2 | Lumière generic dimer | DMX Output 1 - (S/N 6A009219)  |
 
 Universe 1
