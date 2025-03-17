@@ -107,7 +107,12 @@ flowchart TD
 Effets sonores pour la plaque 1
 * Magie
 * Ruisseau
-* Sons aléatoire
+* Sons aléatoire début
+  * Bambo
+  * Echo
+  * GardenChime
+  * Pad méditation
+* Sons aléatoire fin
   * Grenouille-01
   * Cloche
   * Hibou
@@ -115,7 +120,12 @@ Effets sonores pour la plaque 1
 Effets sonores pour la plaque 2
 * Tambour
 * Méditation
-* Sons aléatoire
+* Sons aléatoire début
+  * Flute
+  * Flute célestiale
+  * Flute célestiale 2
+  * UpLifting 2
+* Sons aléatoire fin
   * Vent
   * Feuilles
   * Grenouille-01
@@ -123,7 +133,12 @@ Effets sonores pour la plaque 2
 Effets sonores pour la plaque 3
 * Magie 02
 * Oiseaux
-* Sons aléatoire
+* Sons aléatoire début
+    * Echo
+    * Pad méditation
+    * UpLifting
+    * GardenChime
+* Sons aléatoire fin
     * Grenouille-01
     * Libellule
     * Grenouille-02
@@ -175,6 +190,10 @@ Plaque 1
 | Grenouille-01 | 64  |
 | Cloche | 65   |
 | Hibou | 67  |
+| Bambo | 84  |
+| Echo | 86  |
+| GardenChime | 88   |
+| Pad méditation |89  |
 
 Plaque 2
 
@@ -185,6 +204,10 @@ Plaque 2
 | Grenouille-01 | 64  |
 | Feuilles | 65   |
 | Vent | 67  |
+| Flute | 91  |
+| Flute-célestiale | 92  |
+| Flute célestiale 02 | 94   |
+| UpLifting 02 | 95  |
 
 Plaque 3
 
@@ -195,6 +218,10 @@ Plaque 3
 | Grenouille-02 | 64  |
 | Libellule | 65   |
 | Grenouille-01 | 67  |
+| Echo | 88  |
+| Pad meditation | 86  |
+| UpLifting | 89   |
+| GardenChime | 91  |
 
 Gouttes d'eau pour les 3 plaques
 
