@@ -44,6 +44,8 @@ Ajout des nouveaux sons dans le VST TX16Wx et Plugdata, égalisation des sons da
 ![Semaine 6.2](https://github.com/user-attachments/assets/e1751336-dac9-48d6-90ac-130d052cd429)  
 ![Semaine 6.3](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)  
 
+### Semaine 7  
+
 
 
 

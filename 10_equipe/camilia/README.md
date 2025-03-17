@@ -40,3 +40,6 @@ Assemblage et accrochage des dernières fleurs et changement des vis des structu
 
 ![semaine-06](https://github.com/user-attachments/assets/a9496ca6-f4c9-40d3-89f0-14a7131a2a2a)  
 ![semaine-061](https://github.com/user-attachments/assets/f99920fe-52e8-4f07-9e29-fdcc3b01e033)  
+
+### Semaine 7  
+

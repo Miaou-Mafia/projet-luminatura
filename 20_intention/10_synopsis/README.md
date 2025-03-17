@@ -6,7 +6,7 @@
 
 ## Concept
 
-**Luminatura** est une installation interactive alliant nature et technologie, où des fleurs lumineuses illuminent votre parcours, des vignes et des lanternes décorent l'espace, créant ainsi une atmosphère accueillante. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains des utilisateurs et déclenche une réponse lumineuse et sonore, mettant en avant notre pouvoir d’embellir et d’illuminer notre environnement grâce à la capacitance de notre peau.
+**Luminatura** est une installation interactive alliant nature et technologie, où des fleurs lumineuses éclairent votre parcours, des vignes et des lanternes décorent l'espace, créant ainsi une atmosphère accueillante. En touchant une plaque métallique, le capteur capacitif détecte la conductivité de la peau des mains des utilisateurs et déclenche une réponse lumineuse et sonore, mettant en avant notre pouvoir d’embellir et d’illuminer notre environnement grâce à la capacitance de notre peau.
 
 ## Thème
 

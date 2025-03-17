@@ -39,3 +39,6 @@ Ajout de la synoptique de la maquette, finition de la projection du mur sur Touc
 Ajout de toutes les couleurs qui se mélangent quand les trois plaques sont activées. Ajout des projections pour les deux dernières fleurs. Découpe et collage des pétales pour les deux dernières fleurs. Ajout d'un effet qui devient de plus en plus fort quand il y a de plus en plus de surface de mains sur la plaque.  
 
 ![semaine-06](https://github.com/user-attachments/assets/d450b4bd-8dca-42ce-8aa7-bf98ae1a42fe)  
+
+### Semaine 7  
+
