@@ -40,3 +40,12 @@ Limage des plaques en acier et ajustement de la section budget sur GitHub. Conne
 Nettoyage des plaques métalliques et ajout d’informations dans la section diffusion sur GitHub. Intégration des données superflues des trois plaques dans TouchDesigner et configuration des haut-parleurs Genelec, avec organisation des fils. Achat des vis pour accrocher les modèles 3D au support métallique et assemblage du support pour la plaque 3. Bricolage des pétales de la fleur 5 et ajustement des niveaux de son avec PlugData pour l’égalisation. Développement d’un script PureData pour activer le chaser (vert, rouge, mauve et climax) dans QLC+ en gérant les mélanges de couleurs, suivi d’une réorganisation et d’un ajout de commentaires pour une meilleure lisibilité du code. Mise à jour de la section budget sur GitHub et correction du fichier Excel correspondant et résolution du problème de capacitance du microcontrôleur Atom M5 Stack.  
 
 ![semaine-06](https://github.com/user-attachments/assets/4a40e29e-93d5-4c3a-86e1-5eec1eaca6b7)  
+
+### Semaine de rattrapage  
+
+Bricolage des fleurs 4 et 5 avec Camilia.  
+
+### Semaine 7  
+
+Ajout du compresseur SideChain dans Reaper et d’un limiteur, prise de photos pour la section diffusion, programmation du script pour l’activation des spotlights lors de la détection de capacitance sur Pure Data, remplacement du support blanc triangulaire par un noir, ajustement de la sortie des effets sonores, ajout des images de configuration de Reaper sur GitHub, déplacement du chariot et du PC dans la matrice, ajustement du câblage du transmitter dans le grand studio, création de trois effets sonores pour chaque plaque, ajustement des effets sonores pour assurer la cohésion avec l’ambiance de base, programmation du script dans Pure Data pour envoyer les données du climax à PlugData, recherche de sons pour la vidéo du making-of, ajustement du GitHub et du budget du projet, développement du script avec Audrey pour déclencher la trame sonore du climax sur PlugData.
+
