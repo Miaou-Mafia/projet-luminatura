@@ -23,7 +23,6 @@ La maquette de Luminatura a été élaborée pour offrir une **interaction minim
 * 1 trépied
 * 2 supports imprimés en 3D
 
-
 **Lié à l'audio**
 * 1 haut-parleur
 * 1 Cable DMX
@@ -62,21 +61,21 @@ Le code Arduino mesure la capacitance de l’utilisateur, qui correspond à la c
 
 #### Puredata
 
-![code_puredata](https://github.com/user-attachments/assets/15a58055-21bb-4a53-b98e-bf5a1802eb9a)
+* ![code_puredata](https://github.com/user-attachments/assets/15a58055-21bb-4a53-b98e-bf5a1802eb9a)
 
 Le code PureData collecte les données brutes d'Arduino en fonction de la capacitance de l'utilisateur. Ensuite, un effet de transition fluide est appliqué pour lisser les valeurs. Puis, il envoie deux types de données : les données brutes et les données booléennes. Ces données sont transmises à des ports spécifiques pour chaque logiciel sur le PC.
 
 #### Reaper (plugdata)
 
-![code-plugdata-reaper](https://github.com/user-attachments/assets/11b8adae-cce2-4c94-9552-f15734bc7a1e)
-![delay-sans-delay-patch](https://github.com/user-attachments/assets/45a7c920-410d-42d8-8386-9edc060035f5)
+* ![code-plugdata-reaper](https://github.com/user-attachments/assets/11b8adae-cce2-4c94-9552-f15734bc7a1e)
+* ![delay-sans-delay-patch](https://github.com/user-attachments/assets/45a7c920-410d-42d8-8386-9edc060035f5)
 
 Les données booléennes de PureData sont envoyées à Reaper pour qu'il puisse déclencher et éteindre des sons à partir de l'OSCParse.
 
 #### QLC+
 
-![configuration_qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
-![configuration_qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
+* ![configuration_qlc_01](https://github.com/user-attachments/assets/2be22549-0f59-4cdb-bc2c-105e41b70f57)
+* ![configuration_qlc_02](https://github.com/user-attachments/assets/0fb66d4a-3963-44c1-86db-1024aa5deee8)
 
 Les données booléennes sont utilisées pour déclencher 3 ampoules qui sont connectées chacune à un canal différent sur le transmetteur.
 

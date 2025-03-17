@@ -52,7 +52,7 @@ graph TD;
     DonneeBrute-->| Port: 10002 |TouchDesignerSol;
     DonneeBrute-->| Port: 10004 |TouchDesignerMur;
     Donne1-0-->| Port: 10001 |QLC+;
-    Donne1-0-->| Port: 10003 |Reaper;
+    Donne1-0-->| Port: 10003,10005,10007,10008,10009,10010 |Reaper;
     QLC+-->ActivationChaser[Activation du chaser rose par l'intensité lumineuse];
     Reaper-->| Plaque active |DéclenchementSonCourt1[Déclenchement du premier son court];
     DéclenchementSonCourt1-->| Délai de 7 secondes |DéclenchementSonLong[Déclenchement du son long]
@@ -290,21 +290,24 @@ Virtual Console
 
 ```mermaid
 flowchart TD
-    subgraph Plafond
-        A[Alimentation] --> B[Projecteur du sol 192.168.1.180]
-        A --> C[Ampoule 1]
-        A --> D[Ampoule 2]
-        A --> E[Ampoule 3]
-        A --> F[HDMI Extender RX #31]
-        F -->| Cable HDMI | B
-        G[Ethernet Port 94] -->| Cable Ethernet | B
-        H[Ethernet Port 93] -->| Cable Ethernet | F
-        A --> I[Projecteur du mur 192.168.1.21]
-        K[Ethernet Port 81] -->| Cable Ethernet | I
-        L[Ethernet Port 80] -->| Cable Ethernet | M[HDMI Extender RX #15]
-        M --> I
-        A --> M
-    end
+subgraph Plafond
+    A[Alimentation] --> B[Projecteur du sol 192.168.1.180]
+    A --> C[Ampoule 1]
+    A --> D[Ampoule 2]
+    A --> E[Ampoule 3]
+    A --> X[Ampoule 4]
+    A --> Y[Ampoule 5]
+    A --> Z[Ampoule 6]
+    A --> F[HDMI Extender RX #31]
+    F -->| Cable HDMI | B
+    G[Ethernet Port 94] -->| Cable Ethernet | B
+    H[Ethernet Port 93] -->| Cable Ethernet | F
+    A --> I[Projecteur du mur 192.168.1.21]
+    K[Ethernet Port 81] -->| Cable Ethernet | I
+    L[Ethernet Port 80] -->| Cable Ethernet | M[HDMI Extender RX #15]
+    M --> I
+    A --> M
+end
 ```
 ```mermaid
 flowchart TD

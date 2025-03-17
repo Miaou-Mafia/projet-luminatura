@@ -17,6 +17,10 @@
 - 1 câble en acier
 - 6 câbles métalliques en acier inoxydable
 - Ruban adhésif métallique
+- transmitteur DMX
+- Vis
+- Serre-câbles
+- Bâtons de colle chaude   
 
 #### Capteurs et évaluation
 
@@ -39,9 +43,9 @@
 - 3 haut-parleurs GENELEC 8030C
 - 3 support (support des haut-parleurs)
 - 6 supports imprimés en 3D
-- 1 câble DMX
+- 5 câble DMX
 - 1 carte de son
-- 1 microcontrôleur Atom M5
+- 3 microcontrôleur Atom M5
 - 5 câbles Ethernet
 
 ### Logiciels
