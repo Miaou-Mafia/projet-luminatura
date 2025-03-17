@@ -42,3 +42,5 @@ Création des nouveaux sons utilisés dans l'ambiance, organisation des câbles,
 ![semaine-06-02](https://github.com/user-attachments/assets/a6069540-de0c-4394-b5fa-02484e10f0c5)  
 
 ### Semaine 7  
+
+Recherche de nouveaux sons pour avoir plus de variation dans la trame sonore ainsi que pour ressortir le climax, déplacement du chariot et branchement du PC dans la matrice, et changement du support de la première plaque.
