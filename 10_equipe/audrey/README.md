@@ -49,7 +49,7 @@ Ajout des nouveaux sons dans le VST TX16Wx et Plugdata, égalisation des sons da
 Ajout du compresseur SideChain dans Reaper et d’un limiteur, prise de photos pour la section diffusion, programmation du script pour l’activation des spotlights lors de la détection de capacitance sur Pure Data, ajustement de la sortie des effets sonores par l'augmentation du volume, ajout des images de configuration de Reaper sur GitHub, déplacement du chariot dans la matrice et branchement final, création de 4 effets sonores avec 3 variantes, ajustement du climax pour assurer la cohésion avec les autres sons actifs au même moment, programmation du script dans Pure Data pour envoyer les données du climax à PlugData, recherche de sons et d'inspirations visuelles pour la vidéo du making-of, début du montage pour le making-of, développement du script avec Prethiah pour déclencher la trame sonore du climax sur PlugData, prise de vidéos pour le making-of et ajout de vignes dans la structure.
 
 ![semaine 7.1](https://github.com/user-attachments/assets/a6456bb9-d387-4b6a-ba25-d33881a02896)
-![semaine-7.2](https://github.com/user-attachments/assets/2bca4046-8e3e-4cae-b49e-ed2381ad39e6)
+![semaine 7.2](https://github.com/user-attachments/assets/dd0b785f-7311-48e8-8f80-b787ea5a9b58)
 
 
 
