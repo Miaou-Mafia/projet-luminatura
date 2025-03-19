@@ -1,6 +1,8 @@
 # Luminatura
 Luminatura est une installation immersive alliant art et technologie, où des fleurs lumineuses illuminent votre parcours, tandis que des vignes et des lanternes décorent l'espace, créant ainsi une atmosphère accueillante. En touchant une plaque métallique, le capteur capacitif détecte la conductivité des mains de l'utilisateur et déclenche une lumière douce et chaleureuse, accompagnée de sons apaisants inspirés de la nature. Le potentiel de transformation que chacun peut exercer sur son environnement est illustré par cette interaction.
 
+![luminatura-logo](https://github.com/user-attachments/assets/b8d1a66e-f342-43c1-8318-ce28fc2c28ae)
+
 <!-- ## Bande-annonce -->
 
 ## Vidéo d'intention
