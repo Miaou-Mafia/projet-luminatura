@@ -42,4 +42,7 @@ Assemblage et accrochage des dernières fleurs et changement des vis des structu
 ![semaine-061](https://github.com/user-attachments/assets/f99920fe-52e8-4f07-9e29-fdcc3b01e033)  
 
 ### Semaine 7  
+Deplacement de l'équipement au studio a la matrice. Trouver une solution pour le décalage des lumières à cause du capteur de lumière en le remettant dans le studio avec un fil XLR. Accrochage des vignes pour décorer la structure. Filmage de la bande-annonce. Création du climax et de 6 sons pour l'oeuvres.
+
+![semaine-07](https://github.com/user-attachments/assets/e787045d-bd1d-4a6e-bf01-76c3419610df)
 
