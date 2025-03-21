@@ -9,7 +9,8 @@ Luminatura est une installation immersive alliant art et technologie, où des fl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i6xJno_NFSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- ## Documentation vidéo -->
+## Documentation vidéo
+
 
 ## Gallerie photo
 
