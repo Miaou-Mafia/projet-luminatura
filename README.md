@@ -3,14 +3,13 @@ Luminatura est une installation immersive alliant art et technologie, où des fl
 
 ![luminatura-logo](https://github.com/user-attachments/assets/b8d1a66e-f342-43c1-8318-ce28fc2c28ae)
 
-<!-- ## Bande-annonce -->
+## Documentation vidéo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jz4wxeXT_2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Vidéo d'intention
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i6xJno_NFSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Documentation vidéo
-
 
 ## Gallerie photo
 

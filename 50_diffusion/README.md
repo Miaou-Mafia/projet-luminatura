@@ -11,9 +11,9 @@
 * ![plaques-01-02-03](https://github.com/user-attachments/assets/195386a9-fa41-4988-9b5d-e6a0a3d046fa)
 * ![support-plaques](https://github.com/user-attachments/assets/e5e5e17f-3baa-46a1-bcaf-bcc17b8d78df)
 
-<!-- ## Making-of -->
+## Documentation vidéo
 
-<!-- ## Bande-annonce -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jz4wxeXT_2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Documentation vidéo de l'installation en action
 
